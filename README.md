@@ -1,22 +1,22 @@
 # Music-Genre-Visualization
 
 ## Pie Chart
-![](pictures/pie.png)
+![](pictures/output_3_0.png)
 
 ## Donut Chart
-![](pictures/donut.png)
+![](pictures/output_5_0.png)
 
 ## Bar Chart
-![](pictures/bar.png)
+![](pictures/output_7_0.png)
 
 ## Stacked Bar Chart
-![](pictures/stacked.png)
+![](pictures/output_9_0.png)
 
 ## Line Plot
-![](pictures/line.png)
+![](pictures/output_11_0.png)
 
 ## Scatter Plot
-![](pictures/scatter.png)
+![](pictures/output_13_0.png)
 
 ## Resources
 https://stackoverflow.com/questions/30228069/how-to-display-the-value-of-the-bar-on-each-bar-with-pyplot-barh  
