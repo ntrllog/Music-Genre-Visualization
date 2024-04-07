@@ -185,6 +185,11 @@
     "genre": "Pop"
   },
   {
+    "song": "My Oh My",
+    "artist": "Ava Max",
+    "genre": "Dance-Pop"
+  },
+  {
     "song": "Naked",
     "artist": "Ava Max",
     "genre": "Pop"
@@ -1220,6 +1225,11 @@
     "genre": "Pop-Rap"
   },
   {
+    "song": "Femme Fatale",
+    "artist": "G-Eazy ft. Coi Leray, Kaliii",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
     "song": "Him & I",
     "artist": "G-Eazy, Halsey",
     "genre": "Pop-Rap"
@@ -1243,6 +1253,11 @@
     "song": "Do Right",
     "artist": "Glades",
     "genre": "Dance-Pop"
+  },
+  {
+    "song": "Wanna Be",
+    "artist": "GloRilla ft. Megan Thee Stallion",
+    "genre": "Hip-Hop/Rap"
   },
   {
     "song": "Tomorrow 2",
@@ -3623,6 +3638,11 @@
     "song": "We No Speak Americano",
     "artist": "Yolanda Be Cool, DCUP",
     "genre": "Dance/Electronic"
+  },
+  {
+    "song": "princess peach",
+    "artist": "Young Miko",
+    "genre": "Pop-Rap"
   },
   {
     "song": "Out of My System",
