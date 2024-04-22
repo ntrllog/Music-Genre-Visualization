@@ -2285,6 +2285,11 @@
     "genre": "Dance-Pop"
   },
   {
+    "song": "The Kill",
+    "artist": "Maggie Rogers",
+    "genre": "Alternative/Indie"
+  },
+  {
     "song": "Fantasy",
     "artist": "Mariah Carey",
     "genre": "R&B"
@@ -2926,6 +2931,11 @@
   },
   {
     "song": "Bad Liar",
+    "artist": "Selena Gomez",
+    "genre": "Pop"
+  },
+  {
+    "song": "Fun",
     "artist": "Selena Gomez",
     "genre": "Pop"
   },
