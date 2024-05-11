@@ -1,8 +1,13 @@
 [
   {
-    "song": "I Do",
+    "song": "I DO",
     "artist": "(G)I-DLE",
     "genre": "Pop"
+  },
+  {
+    "song": "Are You Going to See the Rose in the Vase, or the Dust on the Table",
+    "artist": "$uicideboy$",
+    "genre": "Hip-Hop/Rap"
   },
   {
     "song": "Plain Jane",
@@ -55,7 +60,7 @@
     "genre": "Dance/Electronic"
   },
   {
-    "song": "Heroes (We Could Be)",
+    "song": "Heroes (we could be)",
     "artist": "Alesso ft. Tove Lo",
     "genre": "Dance/Electronic"
   },
@@ -65,7 +70,7 @@
     "genre": "R&B"
   },
   {
-    "song": "Catch Me",
+    "song": "Catch me",
     "artist": "Apink",
     "genre": "K-Pop"
   },
@@ -140,7 +145,7 @@
     "genre": "Dance/Electronic"
   },
   {
-    "song": "On a Roll",
+    "song": "On A Roll",
     "artist": "Ashley O",
     "genre": "Pop"
   },
@@ -225,7 +230,7 @@
     "genre": "Dance-Pop"
   },
   {
-    "song": "I Could Be the One",
+    "song": "I Could Be The One",
     "artist": "Avicii, Nicky Romero",
     "genre": "Dance/Electronic"
   },
@@ -275,7 +280,7 @@
     "genre": "Pop"
   },
   {
-    "song": "FFF (Fuck Fake Friends)",
+    "song": "F.F.F.",
     "artist": "Bebe Rexha ft. G-Eazy",
     "genre": "Pop"
   },
@@ -300,7 +305,7 @@
     "genre": "Pop"
   },
   {
-    "song": "Crazy in Love",
+    "song": "Crazy In Love",
     "artist": "Beyoncé ft. Jay-Z",
     "genre": "R&B"
   },
@@ -318,6 +323,11 @@
     "song": "Shine Like Gold",
     "artist": "Big Gipp ft. CeeLo Green",
     "genre": "Pop-Rap"
+  },
+  {
+    "song": "you should see me in a crown",
+    "artist": "Billie Eilish",
+    "genre": "Dance-Pop"
   },
   {
     "song": "Keeping Your Head Up [Don Diablo Remix]",
@@ -338,6 +348,11 @@
     "song": "Invincible",
     "artist": "Borgeous",
     "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Marie Antoinette",
+    "artist": "Boyfriend ft. Big Freedia",
+    "genre": "Dance-Rap"
   },
   {
     "song": "Hurricane",
@@ -395,7 +410,7 @@
     "genre": "Pop"
   },
   {
-    "song": "Boy with Luv",
+    "song": "Boy With Luv",
     "artist": "BTS ft. Halsey",
     "genre": "K-Pop"
   },
@@ -475,7 +490,7 @@
     "genre": "Pop"
   },
   {
-    "song": "Cut to the Feeling",
+    "song": "Cut To The Feeling",
     "artist": "Carly Rae Jepsen",
     "genre": "Pop"
   },
@@ -485,7 +500,7 @@
     "genre": "Pop"
   },
   {
-    "song": "Run Away with Me",
+    "song": "Run Away With Me",
     "artist": "Carly Rae Jepsen",
     "genre": "Pop"
   },
@@ -515,7 +530,7 @@
     "genre": "Pop"
   },
   {
-    "song": "The Rhythm Of The Night",
+    "song": "The Rhythm of the Night",
     "artist": "Cascada",
     "genre": "Dance-Pop"
   },
@@ -550,7 +565,7 @@
     "genre": "Dance/Electronic"
   },
   {
-    "song": "How To Love",
+    "song": "How to Love",
     "artist": "Cash Cash ft. Sofia Reyes",
     "genre": "Dance/Electronic"
   },
@@ -575,7 +590,7 @@
     "genre": "Dance-Pop"
   },
   {
-    "song": "Von Dutch",
+    "song": "Von dutch",
     "artist": "Charli XCX",
     "genre": "Dance/Electronic"
   },
@@ -600,7 +615,7 @@
     "genre": "Pop"
   },
   {
-    "song": "Done For Me",
+    "song": "Done for Me",
     "artist": "Charlie Puth ft. Kehlani",
     "genre": "Pop"
   },
@@ -870,7 +885,7 @@
     "genre": "Dance-Pop"
   },
   {
-    "song": "Listen to Your Heart",
+    "song": "Listen To Your Heart",
     "artist": "DHT ft. Edmée",
     "genre": "Pop"
   },
@@ -941,6 +956,11 @@
   },
   {
     "song": "Houdini",
+    "artist": "Dua Lipa",
+    "genre": "Pop"
+  },
+  {
+    "song": "Illusion",
     "artist": "Dua Lipa",
     "genre": "Pop"
   },
@@ -1190,6 +1210,11 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "Starburster",
+    "artist": "Fontaines D.C.",
+    "genre": "Rock"
+  },
+  {
     "song": "Don't Stop (Color on the Walls)",
     "artist": "Foster The People",
     "genre": "Alternative/Indie"
@@ -1213,6 +1238,11 @@
     "song": "Capsize",
     "artist": "FRENSHIP, Emily Warren",
     "genre": "Dance-Pop"
+  },
+  {
+    "song": "Like That",
+    "artist": "Future, Metro Boomin, Kendrick Lamar",
+    "genre": "Hip-Hop/Rap"
   },
   {
     "song": "No Limit",
@@ -1800,6 +1830,11 @@
     "genre": "Hip-Hop/Rap"
   },
   {
+    "song": "Not Like Us",
+    "artist": "Kendrick Lamar",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
     "song": "Day 'n' Nite [Crookers Remix]",
     "artist": "Kid Cudi",
     "genre": "Dance/Electronic"
@@ -2005,6 +2040,11 @@
     "genre": "Dance-Pop"
   },
   {
+    "song": "For Life",
+    "artist": "Kygo, Zak Abel ft. Nile Rodgers",
+    "genre": "Dance/Electronic"
+  },
+  {
     "song": "Cut Your Teeth [Kygo Remix]",
     "artist": "Kyla La Grange",
     "genre": "Dance/Electronic"
@@ -2143,6 +2183,11 @@
     "song": "Party Rock Anthem",
     "artist": "LMFAO ft. Lauren Bennett, GoonRock",
     "genre": "Dance/Electronic"
+  },
+  {
+    "song": "44ever",
+    "artist": "Logic",
+    "genre": "Hip-Hop/Rap"
   },
   {
     "song": "Keanu Reeves",
@@ -2507,6 +2552,11 @@
   {
     "song": "Lemon [Drake Remix]",
     "artist": "N.E.R.D, Rihanna ft. Drake",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
+    "song": "Define My Name",
+    "artist": "Nas, DJ Premier",
     "genre": "Hip-Hop/Rap"
   },
   {
@@ -2875,6 +2925,11 @@
     "genre": "Dance-Pop"
   },
   {
+    "song": "Espresso",
+    "artist": "Sabrina Carpenter",
+    "genre": "Pop"
+  },
+  {
     "song": "Nonsense",
     "artist": "Sabrina Carpenter",
     "genre": "Pop"
@@ -3160,6 +3215,11 @@
     "genre": "Pop"
   },
   {
+    "song": "I Can Do It With a Broken Heart",
+    "artist": "Taylor Swift",
+    "genre": "Pop"
+  },
+  {
     "song": "I Can See You (Taylor's Version)",
     "artist": "Taylor Swift",
     "genre": "Pop"
@@ -3265,6 +3325,11 @@
     "genre": "Pop"
   },
   {
+    "song": "The Tortured Poets Department",
+    "artist": "Taylor Swift",
+    "genre": "Pop"
+  },
+  {
     "song": "We Are Never Ever Getting Back Together (Taylor's Version)",
     "artist": "Taylor Swift",
     "genre": "Pop"
@@ -3302,6 +3367,11 @@
   {
     "song": "Snow On The Beach",
     "artist": "Taylor Swift ft. Lana Del Rey",
+    "genre": "Pop"
+  },
+  {
+    "song": "Fortnight",
+    "artist": "Taylor Swift ft. Post Malone",
     "genre": "Pop"
   },
   {
