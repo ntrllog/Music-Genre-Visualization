@@ -10,6 +10,16 @@
     "genre": "Hip-Hop/Rap"
   },
   {
+    "song": "The Thin Grey Line",
+    "artist": "$uicideboy$",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
+    "song": "redrum",
+    "artist": "21 Savage",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
     "song": "Plain Jane",
     "artist": "A$AP Ferg",
     "genre": "Hip-Hop/Rap"
@@ -325,6 +335,11 @@
     "genre": "Pop-Rap"
   },
   {
+    "song": "LUNCH",
+    "artist": "Billie Eilish",
+    "genre": "Alternative/Indie"
+  },
+  {
     "song": "you should see me in a crown",
     "artist": "Billie Eilish",
     "genre": "Dance-Pop"
@@ -585,6 +600,16 @@
     "genre": "Hip-Hop/Rap"
   },
   {
+    "song": "Good Luck, Babe!",
+    "artist": "Chappell Roan",
+    "genre": "Pop"
+  },
+  {
+    "song": "360",
+    "artist": "Charli XCX",
+    "genre": "Dance/Electronic"
+  },
+  {
     "song": "Speed Drive",
     "artist": "Charli XCX",
     "genre": "Dance-Pop"
@@ -840,6 +865,11 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "I Don't Wanna Wait",
+    "artist": "David Guetta, OneRepublic",
+    "genre": "Dance/Electronic"
+  },
+  {
     "song": "The Veldt",
     "artist": "deadmau5 ft. Chris James",
     "genre": "Dance/Electronic"
@@ -925,7 +955,7 @@
     "genre": "Dance/Electronic"
   },
   {
-    "song": "I Need a Doctor",
+    "song": "I Need A Doctor",
     "artist": "Dr. Dre ft. Eminem, Skylar Grey",
     "genre": "Hip-Hop/Rap"
   },
@@ -1010,7 +1040,7 @@
     "genre": "Pop"
   },
   {
-    "song": "Something in the Way You Move",
+    "song": "Something In The Way You Move",
     "artist": "Ellie Goulding",
     "genre": "Pop"
   },
@@ -1026,6 +1056,11 @@
   },
   {
     "song": "Bagpipes From Baghdad",
+    "artist": "Eminem",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
+    "song": "Houdini",
     "artist": "Eminem",
     "genre": "Hip-Hop/Rap"
   },
@@ -1095,7 +1130,7 @@
     "genre": "Pop"
   },
   {
-    "song": "Walking on a Dream",
+    "song": "Walking On A Dream",
     "artist": "Empire of the Sun",
     "genre": "Dance-Rock"
   },
@@ -1115,7 +1150,7 @@
     "genre": "Pop"
   },
   {
-    "song": "Like a G6",
+    "song": "Like A G6",
     "artist": "Far East Movement ft. The Cataracs, DEV",
     "genre": "Dance/Electronic"
   },
@@ -1170,7 +1205,7 @@
     "genre": "Dance-Pop"
   },
   {
-    "song": "Turn Around (5, 4, 3, 2, 1)",
+    "song": "Turn Around (5,4,3,2,1)",
     "artist": "Flo Rida",
     "genre": "Pop-Rap"
   },
@@ -1310,7 +1345,12 @@
     "genre": "Pop"
   },
   {
-    "song": "Just For a Moment",
+    "song": "Close To You",
+    "artist": "Gracie Abrams",
+    "genre": "Pop"
+  },
+  {
+    "song": "Just For A Moment",
     "artist": "Gryffin ft. Iselin",
     "genre": "Dance/Electronic"
   },
@@ -1420,7 +1460,7 @@
     "genre": "Dance-Pop"
   },
   {
-    "song": "Now or Never [R3hab Remix]",
+    "song": "Now Or Never [R3hab Remix]",
     "artist": "Halsey",
     "genre": "Dance/Electronic"
   },
@@ -1460,7 +1500,7 @@
     "genre": "Alternative/Indie"
   },
   {
-    "song": "We Run the Night [Red One Remix]",
+    "song": "We Run The Night [Red One Remix]",
     "artist": "Havana Brown ft. Pitbull",
     "genre": "Dance/Electronic"
   },
@@ -1555,7 +1595,7 @@
     "genre": "R&B"
   },
   {
-    "song": "Empire State of Mind",
+    "song": "Empire State Of Mind",
     "artist": "Jay-Z ft. Alicia Keys",
     "genre": "Hip-Hop/Rap"
   },
@@ -1565,7 +1605,7 @@
     "genre": "Pop"
   },
   {
-    "song": "Don't Be So Hard on Yourself",
+    "song": "Don't Be so Hard on Yourself",
     "artist": "Jess Glynne",
     "genre": "Pop"
   },
@@ -1635,7 +1675,7 @@
     "genre": "Pop"
   },
   {
-    "song": "All Around the World",
+    "song": "All Around The World",
     "artist": "Justin Bieber ft. Ludacris",
     "genre": "Pop"
   },
@@ -1660,12 +1700,12 @@
     "genre": "Hip-Hop/Rap"
   },
   {
-    "song": "Diamonds from Sierra Leone",
+    "song": "Diamonds From Sierra Leone",
     "artist": "Kanye West ft. Jay-Z",
     "genre": "Hip-Hop/Rap"
   },
   {
-    "song": "Niggas in Paris",
+    "song": "Niggas In Paris",
     "artist": "Kanye West, Jay-Z",
     "genre": "Hip-Hop/Rap"
   },
@@ -1675,7 +1715,7 @@
     "genre": "Hip-Hop/Rap"
   },
   {
-    "song": "Contigo",
+    "song": "CONTIGO",
     "artist": "Karol G, Tiësto",
     "genre": "Dance-Pop"
   },
@@ -1705,12 +1745,12 @@
     "genre": "Pop"
   },
   {
-    "song": "Hot n Cold",
+    "song": "Hot N Cold",
     "artist": "Katy Perry",
     "genre": "Pop"
   },
   {
-    "song": "I Kissed a Girl",
+    "song": "I Kissed A Girl",
     "artist": "Katy Perry",
     "genre": "Pop"
   },
@@ -1760,7 +1800,7 @@
     "genre": "Pop"
   },
   {
-    "song": "Chained to the Rhythm",
+    "song": "Chained To The Rhythm",
     "artist": "Katy Perry ft. Skip Marley",
     "genre": "Pop"
   },
@@ -1835,7 +1875,7 @@
     "genre": "Hip-Hop/Rap"
   },
   {
-    "song": "Day 'n' Nite [Crookers Remix]",
+    "song": "Day 'N' Nite [Crookers Remix]",
     "artist": "Kid Cudi",
     "genre": "Dance/Electronic"
   },
@@ -1850,7 +1890,7 @@
     "genre": "Pop"
   },
   {
-    "song": "I Don't Want It at All",
+    "song": "I Don't Want It At All",
     "artist": "Kim Petras",
     "genre": "Pop"
   },
@@ -1890,6 +1930,26 @@
     "genre": "Dance-Pop"
   },
   {
+    "song": "Lost Without You",
+    "artist": "Kygo ft. Dean Lewis",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Never Really Loved Me",
+    "artist": "Kygo ft. Dean Lewis",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Hot Stuff",
+    "artist": "Kygo ft. Donna Summer",
+    "genre": "Dance-Rock"
+  },
+  {
+    "song": "Feels Like Forever",
+    "artist": "Kygo ft. Jamie N Commons",
+    "genre": "Dance/Electronic"
+  },
+  {
     "song": "Sunrise",
     "artist": "Kygo ft. Jason Walker",
     "genre": "Dance/Electronic"
@@ -1897,6 +1957,11 @@
   {
     "song": "Permanent",
     "artist": "Kygo ft. JHart",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Follow",
+    "artist": "Kygo ft. Joe Janiak",
     "genre": "Dance/Electronic"
   },
   {
@@ -1910,6 +1975,11 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "Broken Glass",
+    "artist": "Kygo ft. Kim Petras",
+    "genre": "Dance-Pop"
+  },
+  {
     "song": "Raging",
     "artist": "Kygo ft. Kodaline",
     "genre": "Dance/Electronic"
@@ -1920,8 +1990,48 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "Remind Me to Forget",
+    "artist": "Kygo ft. Miguel",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Stranger Things",
+    "artist": "Kygo ft. OneRepublic",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Say You Will",
+    "artist": "Kygo ft. Patrick Droney, Petey",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Thrill of the Chase",
+    "artist": "Kygo ft. R.I.Pablo",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Hurting",
+    "artist": "Kygo ft. Rhys Lewis",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Don't Give Up On Love",
+    "artist": "Kygo ft. Sam Tinnesz",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Beautiful",
+    "artist": "Kygo ft. Sandro Cavazza",
+    "genre": "Dance/Electronic"
+  },
+  {
     "song": "Happy Now",
     "artist": "Kygo ft. Sandro Cavazza",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "I'll Wait",
+    "artist": "Kygo ft. Sasha Sloan",
     "genre": "Dance/Electronic"
   },
   {
@@ -1945,6 +2055,11 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "Like It Is",
+    "artist": "Kygo ft. Zara Larsson, Tyga",
+    "genre": "Dance/Electronic"
+  },
+  {
     "song": "Love Me Now",
     "artist": "Kygo ft. Zoe Wees",
     "genre": "Dance/Electronic"
@@ -1960,43 +2075,18 @@
     "genre": "Dance-Pop"
   },
   {
-    "song": "Lost Without You",
-    "artist": "Kygo, Dean Lewis",
-    "genre": "Dance/Electronic"
-  },
-  {
-    "song": "Never Really Loved Me",
-    "artist": "Kygo, Dean Lewis",
-    "genre": "Dance/Electronic"
-  },
-  {
-    "song": "Hot Stuff",
-    "artist": "Kygo, Donna Summer",
-    "genre": "Dance-Rock"
-  },
-  {
     "song": "First Time",
     "artist": "Kygo, Ellie Goulding",
     "genre": "Dance-Pop"
   },
   {
     "song": "Woke Up in Love",
-    "artist": "Kygo, Gryffin, Calum Scott",
+    "artist": "Kygo, Gryffin ft. Calum Scott",
     "genre": "Dance/Electronic"
   },
   {
-    "song": "Born to Be Yours",
+    "song": "Born To Be Yours",
     "artist": "Kygo, Imagine Dragons",
-    "genre": "Dance/Electronic"
-  },
-  {
-    "song": "Broken Glass",
-    "artist": "Kygo, Kim Petras",
-    "genre": "Dance-Pop"
-  },
-  {
-    "song": "Remind Me to Forget",
-    "artist": "Kygo, Miguel",
     "genre": "Dance/Electronic"
   },
   {
@@ -2010,18 +2100,13 @@
     "genre": "Dance-Pop"
   },
   {
-    "song": "Thrill of the Chase",
-    "artist": "Kygo, R.I.Pablo",
-    "genre": "Dance/Electronic"
-  },
-  {
     "song": "Carry On",
     "artist": "Kygo, Rita Ora",
     "genre": "Dance-Pop"
   },
   {
-    "song": "I'll Wait",
-    "artist": "Kygo, Sasha Sloan",
+    "song": "How Many Tears",
+    "artist": "Kygo, Sam Feldt ft. Emily Warren",
     "genre": "Dance/Electronic"
   },
   {
@@ -2085,7 +2170,7 @@
     "genre": "Pop"
   },
   {
-    "song": "The Edge of Glory",
+    "song": "The Edge Of Glory",
     "artist": "Lady Gaga",
     "genre": "Pop"
   },
@@ -2105,7 +2190,7 @@
     "genre": "Pop"
   },
   {
-    "song": "Young and Beautiful",
+    "song": "Young And Beautiful",
     "artist": "Lana Del Rey",
     "genre": "Pop"
   },
@@ -2135,7 +2220,7 @@
     "genre": "Pop"
   },
   {
-    "song": "Fuck, I'm Lonely",
+    "song": "fuck, i'm lonely",
     "artist": "Lauv ft. Anne-Marie",
     "genre": "Pop"
   },
@@ -2195,7 +2280,7 @@
     "genre": "Hip-Hop/Rap"
   },
   {
-    "song": "Till the End",
+    "song": "Till The End",
     "artist": "Logic",
     "genre": "Hip-Hop/Rap"
   },
@@ -2220,7 +2305,7 @@
     "genre": "Pop-Rap"
   },
   {
-    "song": "100 Miles & Running",
+    "song": "100 Miles and Running",
     "artist": "Logic ft. Wale, John Lindahl",
     "genre": "Hip-Hop/Rap"
   },
@@ -2235,7 +2320,7 @@
     "genre": "Hip-Hop/Rap"
   },
   {
-    "song": "Your Side of the Bed",
+    "song": "Your Side Of The Bed",
     "artist": "Loote",
     "genre": "Pop"
   },
@@ -2270,7 +2355,7 @@
     "genre": "Dance/Electronic"
   },
   {
-    "song": "I Got 5 on It",
+    "song": "I Got 5 On It",
     "artist": "Luniz",
     "genre": "Hip-Hop/Rap"
   },
@@ -2315,7 +2400,7 @@
     "genre": "Dance-Pop"
   },
   {
-    "song": "We Are the Night",
+    "song": "We Are The Night",
     "artist": "Madison Mars ft. Sanjana Ghosh",
     "genre": "Dance/Electronic"
   },
@@ -2425,7 +2510,7 @@
     "genre": "Dance/Electronic"
   },
   {
-    "song": "In My Mind",
+    "song": "in my miNd",
     "artist": "Maty Noyes",
     "genre": "Pop"
   },
@@ -2438,6 +2523,11 @@
     "song": "Electrified",
     "artist": "Megan Nicole",
     "genre": "Pop"
+  },
+  {
+    "song": "BOA",
+    "artist": "Megan Thee Stallion",
+    "genre": "Hip-Hop/Rap"
   },
   {
     "song": "Sweetest Pie",
@@ -2465,6 +2555,16 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "405",
+    "artist": "Midnight Kids",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Everything You Are",
+    "artist": "Midnight Kids",
+    "genre": "Dance/Electronic"
+  },
+  {
     "song": "Keep It Complicated",
     "artist": "Midnight Kids",
     "genre": "Dance/Electronic"
@@ -2480,6 +2580,16 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "Bad For You",
+    "artist": "Midnight Kids ft. 90's Kids",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Those Were The Days",
+    "artist": "Midnight Kids ft. Jared Lee",
+    "genre": "Dance/Electronic"
+  },
+  {
     "song": "Find Our Way",
     "artist": "Midnight Kids ft. klei",
     "genre": "Dance/Electronic"
@@ -2490,8 +2600,38 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "Break Away",
+    "artist": "Midnight Kids ft. Lisa Goe",
+    "genre": "Dance/Electronic"
+  },
+  {
     "song": "The Long Way Home",
     "artist": "Midnight Kids ft. Noelle Johnson",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Higher",
+    "artist": "Midnight Kids ft. Opposite the Other",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Out of Time",
+    "artist": "Midnight Kids ft. Yueku",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Even For A Second",
+    "artist": "Midnight Kids, CAPPA",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Just For Right Now",
+    "artist": "Midnight Kids, Casey Cook",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Your Way",
+    "artist": "Midnight Kids, CVBZ",
     "genre": "Dance/Electronic"
   },
   {
@@ -2502,6 +2642,16 @@
   {
     "song": "Broken Things",
     "artist": "Midnight Kids, Linney",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Serious",
+    "artist": "Midnight Kids, Matthew Koma",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Without You",
+    "artist": "Midnight Kids, SayWeCanFly",
     "genre": "Dance/Electronic"
   },
   {
@@ -2525,7 +2675,7 @@
     "genre": "Dance/Electronic"
   },
   {
-    "song": "I Took a Pill in Ibiza [Seeb Remix]",
+    "song": "I Took A Pill In Ibiza [Seeb Remix]",
     "artist": "Mike Posner",
     "genre": "Dance-Pop"
   },
@@ -2570,13 +2720,18 @@
     "genre": "Pop"
   },
   {
-    "song": "Let Me Love You (Until You Learn to Love Yourself) [Jason Chen Cover]",
+    "song": "Let Me Love You (Until You Learn To Love Yourself) [Jason Chen Cover]",
     "artist": "Ne-Yo",
     "genre": "Dance-Pop"
   },
   {
     "song": "Sexual",
     "artist": "NEIKED ft. Dyo",
+    "genre": "Dance-Pop"
+  },
+  {
+    "song": "Love Bites",
+    "artist": "Nelly Furtado, Tove Lo, SG Lewis",
     "genre": "Dance-Pop"
   },
   {
@@ -2595,7 +2750,7 @@
     "genre": "Pop-Rap"
   },
   {
-    "song": "Pray For Him",
+    "song": "Pray for Him",
     "artist": "Nick Cannon ft. The Black Squad",
     "genre": "Hip-Hop/Rap"
   },
@@ -2620,7 +2775,7 @@
     "genre": "Pop-Rap"
   },
   {
-    "song": "Pound the Alarm",
+    "song": "Pound The Alarm",
     "artist": "Nicki Minaj",
     "genre": "Pop-Rap"
   },
@@ -2730,6 +2885,11 @@
     "genre": "Pop"
   },
   {
+    "song": "Night Changes",
+    "artist": "One Direction",
+    "genre": "Pop"
+  },
+  {
     "song": "Apologize",
     "artist": "OneRepublic",
     "genre": "Pop"
@@ -2765,6 +2925,11 @@
     "genre": "Pop"
   },
   {
+    "song": "I Feel Good",
+    "artist": "Pitbull ft. Anthony Watts, DJWS",
+    "genre": "Dance-Pop"
+  },
+  {
     "song": "International Love",
     "artist": "Pitbull ft. Chris Brown",
     "genre": "Dance-Pop"
@@ -2795,8 +2960,38 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "Everything Goes On",
+    "artist": "Porter Robinson",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Fresh Static Snow",
+    "artist": "Porter Robinson",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Russian Roulette",
+    "artist": "Porter Robinson",
+    "genre": "Dance/Electronic"
+  },
+  {
     "song": "Sad Machine",
     "artist": "Porter Robinson",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Years Of War",
+    "artist": "Porter Robinson ft. Breanne Duren, Sean Caskey",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Polygon Dust",
+    "artist": "Porter Robinson ft. Lemaitre",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Lionhearted",
+    "artist": "Porter Robinson ft. Urban Cone",
     "genre": "Dance/Electronic"
   },
   {
@@ -2921,7 +3116,7 @@
   },
   {
     "song": "Million Days",
-    "artist": "Sabai ft. Hoang, Claire Ridgely",
+    "artist": "SABAI ft. Hoang, Claire Ridgely",
     "genre": "Dance-Pop"
   },
   {
@@ -2955,7 +3150,7 @@
     "genre": "Dance/Electronic"
   },
   {
-    "song": "Dancing with a Stranger",
+    "song": "Dancing With A Stranger",
     "artist": "Sam Smith, Normani",
     "genre": "Pop"
   },
@@ -3708,6 +3903,11 @@
     "song": "See You Again",
     "artist": "Wiz Khalifa ft. Charlie Puth",
     "genre": "Pop-Rap"
+  },
+  {
+    "song": "WOKE UP",
+    "artist": "XG",
+    "genre": "Hip-Hop/Rap"
   },
   {
     "song": "Heads Will Roll",
