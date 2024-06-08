@@ -9,9 +9,6 @@
 ## Bar Chart
 ![](pictures/bar.png)
 
-## Stacked Bar Chart
-![](pictures/stacked_bar.png)
-
 ## Scatter Plot
 ![](pictures/scatter.png)
 
