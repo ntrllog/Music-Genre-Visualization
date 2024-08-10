@@ -80,6 +80,11 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "I Like It",
+    "artist": "Alesso, Nate Smith",
+    "genre": "Dance/Electronic"
+  },
+  {
     "song": "Rise Up",
     "artist": "Andra Day",
     "genre": "R&B"
@@ -343,6 +348,16 @@
     "song": "Shine Like Gold",
     "artist": "Big Gipp ft. CeeLo Green",
     "genre": "Pop-Rap"
+  },
+  {
+    "song": "Yes",
+    "artist": "Big Sean",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
+    "song": "BIRDS OF A FEATHER",
+    "artist": "Billie Eilish",
+    "genre": "Pop"
   },
   {
     "song": "LUNCH",
@@ -680,6 +695,11 @@
     "genre": "Pop"
   },
   {
+    "song": "I Lied, I'm Sorry",
+    "artist": "Chloe Qisha",
+    "genre": "Alternative/Indie"
+  },
+  {
     "song": "Don't Wake Me Up",
     "artist": "Chris Brown",
     "genre": "Dance-Pop"
@@ -757,6 +777,16 @@
   {
     "song": "Hold Me Up",
     "artist": "Conrad Sewell",
+    "genre": "Dance-Pop"
+  },
+  {
+    "song": "Can't Get Enough",
+    "artist": "Culture Jam ft. BIA, Lakeyah, Flau'jae",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
+    "song": "True",
+    "artist": "CYRIL, Kita Alexander",
     "genre": "Dance-Pop"
   },
   {
@@ -930,6 +960,11 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "You Hear Yes",
+    "artist": "Destroy Boys, Mannequin Pussy, Scowl",
+    "genre": "Rock"
+  },
+  {
     "song": "In the Dark",
     "artist": "DEV",
     "genre": "Dance-Pop"
@@ -1080,7 +1115,27 @@
     "genre": "Pop"
   },
   {
+    "song": "Antichrist",
+    "artist": "Eminem",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
     "song": "Bagpipes From Baghdad",
+    "artist": "Eminem",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
+    "song": "Brand New Dance",
+    "artist": "Eminem",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
+    "song": "Evil",
+    "artist": "Eminem",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
+    "song": "Guilty Conscience 2",
     "artist": "Eminem",
     "genre": "Hip-Hop/Rap"
   },
@@ -1110,6 +1165,11 @@
     "genre": "Hip-Hop/Rap"
   },
   {
+    "song": "Renaissance",
+    "artist": "Eminem",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
     "song": "The Real Slim Shady",
     "artist": "Eminem",
     "genre": "Hip-Hop/Rap"
@@ -1125,8 +1185,33 @@
     "genre": "Hip-Hop/Rap"
   },
   {
+    "song": "Tobey",
+    "artist": "Eminem ft. Big Sean, Babytron",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
+    "song": "Road Rage",
+    "artist": "Eminem ft. Dem Jointz, Sly Pyper",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
+    "song": "Head Honcho",
+    "artist": "Eminem ft. Ez Mil",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
     "song": "Killer (Remix)",
     "artist": "Eminem ft. Jack Harlow, Cordae",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
+    "song": "Somebody Save Me",
+    "artist": "Eminem ft. Jelly Roll",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
+    "song": "Fuel",
+    "artist": "Eminem ft. JID",
     "genre": "Hip-Hop/Rap"
   },
   {
@@ -1148,6 +1233,26 @@
     "song": "The Monster",
     "artist": "Eminem ft. Rihanna",
     "genre": "Pop-Rap"
+  },
+  {
+    "song": "Temporary",
+    "artist": "Eminem ft. Skylar Grey",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
+    "song": "Lucifer",
+    "artist": "Eminem ft. Sly Pyper",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
+    "song": "Bad One",
+    "artist": "Eminem ft. White Gold",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
+    "song": "Habits",
+    "artist": "Eminem ft. White Gold",
+    "genre": "Hip-Hop/Rap"
   },
   {
     "song": "No Doubt About It",
@@ -1430,6 +1535,11 @@
     "genre": "Pop"
   },
   {
+    "song": "Hello World",
+    "artist": "Gwen Stefani, Anderson .Paak",
+    "genre": "Pop"
+  },
+  {
     "song": "Back to Life",
     "artist": "Hailee Steinfeld",
     "genre": "Pop"
@@ -1580,6 +1690,11 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "Didn't",
+    "artist": "illuminati hotties ft. Cavetown",
+    "genre": "Alternative/Indie"
+  },
+  {
     "song": "Shots [Broiler Remix]",
     "artist": "Imagine Dragons",
     "genre": "Dance/Electronic"
@@ -1598,6 +1713,11 @@
     "song": "Dua Lipa",
     "artist": "Jack Harlow",
     "genre": "Hip-Hop/Rap"
+  },
+  {
+    "song": "Angel Of My Dreams",
+    "artist": "JADE",
+    "genre": "Pop"
   },
   {
     "song": "Lost",
@@ -1748,6 +1868,11 @@
     "song": "Clique",
     "artist": "Kanye West, Jay-Z, Big Sean",
     "genre": "Hip-Hop/Rap"
+  },
+  {
+    "song": "Super Breath",
+    "artist": "Karen O, Danger Mouse",
+    "genre": "Alternative/Indie"
   },
   {
     "song": "CONTIGO",
@@ -1901,6 +2026,11 @@
   },
   {
     "song": "DNA.",
+    "artist": "Kendrick Lamar",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
+    "song": "euphoria",
     "artist": "Kendrick Lamar",
     "genre": "Hip-Hop/Rap"
   },
@@ -2350,6 +2480,11 @@
     "genre": "Pop"
   },
   {
+    "song": "Right Above It",
+    "artist": "Lil Wayne ft. Drake",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
     "song": "Leave This Place",
     "artist": "LIONE",
     "genre": "Dance/Electronic"
@@ -2625,6 +2760,11 @@
     "genre": "Pop"
   },
   {
+    "song": "Am I Okay?",
+    "artist": "Megan Moroney",
+    "genre": "Country"
+  },
+  {
     "song": "Electrified",
     "artist": "Megan Nicole",
     "genre": "Pop"
@@ -2865,6 +3005,11 @@
     "genre": "Dance-Pop"
   },
   {
+    "song": "PASSENGER PRINCESS",
+    "artist": "Nessa Barrett",
+    "genre": "Pop"
+  },
+  {
     "song": "Let You Down",
     "artist": "NF",
     "genre": "Pop-Rap"
@@ -2918,6 +3063,11 @@
     "song": "Moment 4 Life",
     "artist": "Nicki Minaj ft. Drake",
     "genre": "Pop"
+  },
+  {
+    "song": "Buzz",
+    "artist": "NIKI",
+    "genre": "Alternative/Indie"
   },
   {
     "song": "The Joke Is On You",
@@ -3085,6 +3235,11 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "Bad Kids",
+    "artist": "Polo G, GloRilla",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
     "song": "Everything Goes On",
     "artist": "Porter Robinson",
     "genre": "Dance/Electronic"
@@ -3093,6 +3248,11 @@
     "song": "Fresh Static Snow",
     "artist": "Porter Robinson",
     "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Perfect Pinterest Garden",
+    "artist": "Porter Robinson",
+    "genre": "Dance-Pop"
   },
   {
     "song": "Russian Roulette",
@@ -3138,6 +3298,11 @@
     "song": "Powerglide",
     "artist": "Rae Sremmurd ft. Juicy J",
     "genre": "Hip-Hop/Rap"
+  },
+  {
+    "song": "Genius",
+    "artist": "Ravyn Lenae",
+    "genre": "Pop"
   },
   {
     "song": "Pretty Girls",
@@ -3188,6 +3353,11 @@
     "song": "Your Song",
     "artist": "Rita Ora",
     "genre": "Pop"
+  },
+  {
+    "song": "On Dat Money",
+    "artist": "Rob49, Cardi B",
+    "genre": "Hip-Hop/Rap"
   },
   {
     "song": "Sugar",
@@ -3251,6 +3421,11 @@
   },
   {
     "song": "Nonsense",
+    "artist": "Sabrina Carpenter",
+    "genre": "Pop"
+  },
+  {
+    "song": "Please Please Please",
     "artist": "Sabrina Carpenter",
     "genre": "Pop"
   },
@@ -3880,6 +4055,11 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "Hot Honey",
+    "artist": "Tiësto ft. Alana Springsteen",
+    "genre": "Dance/Electronic"
+  },
+  {
     "song": "Take Me",
     "artist": "Tiësto ft. Kyler England",
     "genre": "Dance/Electronic"
@@ -3912,6 +4092,11 @@
   {
     "song": "All Hands on Deck",
     "artist": "Tinashe ft. Iggy Azalea",
+    "genre": "R&B"
+  },
+  {
+    "song": "MILLION DOLLAR BABY",
+    "artist": "Tommy Richman",
     "genre": "R&B"
   },
   {
@@ -4055,6 +4240,11 @@
     "genre": "Pop-Rap"
   },
   {
+    "song": "John Wayne",
+    "artist": "Young Nudy ft. Metro Boomin",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
     "song": "Out Of My System",
     "artist": "Youngr",
     "genre": "Dance-Pop"
@@ -4088,6 +4278,11 @@
     "song": "Beautiful Now",
     "artist": "Zedd ft. Jon Bellion",
     "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Lucky",
+    "artist": "Zedd ft. Remi Wolf",
+    "genre": "Dance-Pop"
   },
   {
     "song": "I Want You To Know",
