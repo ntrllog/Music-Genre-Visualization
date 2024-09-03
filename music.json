@@ -380,6 +380,11 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "Mona Lisa On A Mattress",
+    "artist": "Bishop Briggs",
+    "genre": "Pop"
+  },
+  {
     "song": "Deserve Each Other",
     "artist": "bludnymph",
     "genre": "Dance-Pop"
@@ -642,6 +647,11 @@
   {
     "song": "Von dutch",
     "artist": "Charli XCX",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Guess",
+    "artist": "Charli XCX ft. Billie Eilish",
     "genre": "Dance/Electronic"
   },
   {
@@ -1015,6 +1025,11 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "GTFO",
+    "artist": "Doechii ft. KUNTFETISH",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
     "song": "I Need A Doctor",
     "artist": "Dr. Dre ft. Eminem, Skylar Grey",
     "genre": "Hip-Hop/Rap"
@@ -1315,6 +1330,11 @@
     "genre": "Pop"
   },
   {
+    "song": "Cupid [Twin Ver.]",
+    "artist": "FIFTY FIFTY ft. Sabrina Carpenter",
+    "genre": "Pop"
+  },
+  {
     "song": "Dreams",
     "artist": "Fleetwood Mac",
     "genre": "Soft Rock"
@@ -1385,9 +1405,19 @@
     "genre": "Alternative/Indie"
   },
   {
+    "song": "Lost In Space",
+    "artist": "Foster The People",
+    "genre": "Disco"
+  },
+  {
     "song": "Pumped Up Kicks",
     "artist": "Foster The People",
     "genre": "Alternative/Indie"
+  },
+  {
+    "song": "See You In The Afterlife",
+    "artist": "Foster The People",
+    "genre": "Pop"
   },
   {
     "song": "Sit Next to Me",
@@ -1443,6 +1473,11 @@
     "song": "Lighter",
     "artist": "Galantis, David Guetta, 5 Seconds of Summer",
     "genre": "Dance-Pop"
+  },
+  {
+    "song": "Lost",
+    "artist": "Gareth Emery ft. Janet Devlin",
+    "genre": "Dance/Electronic"
   },
   {
     "song": "Do Right",
@@ -1698,6 +1733,11 @@
     "song": "Shots [Broiler Remix]",
     "artist": "Imagine Dragons",
     "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Pretty Boy",
+    "artist": "Isabel LaRosa",
+    "genre": "Dance-Pop"
   },
   {
     "song": "Famous",
@@ -2720,6 +2760,11 @@
     "genre": "Dance-Pop"
   },
   {
+    "song": "Miles On It",
+    "artist": "Marshmello, Kane Brown",
+    "genre": "Dance/Electronic"
+  },
+  {
     "song": "Summer Days",
     "artist": "Martin Garrix ft. Macklemore, Patrick Stump",
     "genre": "Dance-Pop"
@@ -2755,9 +2800,19 @@
     "genre": "Pop"
   },
   {
+    "song": "Officially Mine",
+    "artist": "Maude Latour",
+    "genre": "Dance-Pop"
+  },
+  {
     "song": "Still New York",
     "artist": "MAX ft. Joey Bada$$",
     "genre": "Pop"
+  },
+  {
+    "song": "you fake your british accent",
+    "artist": "Meg Smith",
+    "genre": "Dance-Pop"
   },
   {
     "song": "Am I Okay?",
@@ -3115,6 +3170,11 @@
     "genre": "Pop"
   },
   {
+    "song": "brutal",
+    "artist": "Olivia Rodrigo",
+    "genre": "Pop-Rock"
+  },
+  {
     "song": "deja vu",
     "artist": "Olivia Rodrigo",
     "genre": "Alternative/Indie"
@@ -3143,6 +3203,11 @@
     "song": "jealousy, jealousy",
     "artist": "Olivia Rodrigo",
     "genre": "Pop-Rock"
+  },
+  {
+    "song": "love is embarrassing",
+    "artist": "Olivia Rodrigo",
+    "genre": "Pop"
   },
   {
     "song": "obsessed",
@@ -4048,6 +4113,11 @@
     "song": "Feel It",
     "artist": "Three 6 Mafia ft. Tiësto, Sean Kingston, Flo Rida",
     "genre": "Dance-Rap"
+  },
+  {
+    "song": "cloud 11",
+    "artist": "thuy",
+    "genre": "Pop"
   },
   {
     "song": "Red Lights",
