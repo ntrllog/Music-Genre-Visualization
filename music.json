@@ -70,6 +70,11 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "I already dug your grave",
+    "artist": "Alemeda",
+    "genre": "Pop",
+  },
+  {
     "song": "Cool",
     "artist": "Alesso ft. Roy English",
     "genre": "Dance/Electronic"
@@ -200,12 +205,37 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "Cold As Ice",
+    "artist": "Ava Max",
+    "genre": "Pop"
+  },
+  {
+    "song": "Get Outta My Heart",
+    "artist": "Ava Max",
+    "genre": "Pop"
+  },
+  {
+    "song": "Ghost",
+    "artist": "Ava Max",
+    "genre": "Pop"
+  },
+  {
     "song": "Kings & Queens",
     "artist": "Ava Max",
     "genre": "Pop"
   },
   {
+    "song": "Last Night On Earth",
+    "artist": "Ava Max",
+    "genre": "Pop"
+  },
+  {
     "song": "Maybe You're The Problem",
+    "artist": "Ava Max",
+    "genre": "Pop"
+  },
+  {
+    "song": "Million Dollar Baby",
     "artist": "Ava Max",
     "genre": "Pop"
   },
@@ -220,7 +250,22 @@
     "genre": "Pop"
   },
   {
+    "song": "One Of Us",
+    "artist": "Ava Max",
+    "genre": "Pop"
+  },
+  {
+    "song": "Sleepwalker",
+    "artist": "Ava Max",
+    "genre": "Pop"
+  },
+  {
     "song": "So Am I",
+    "artist": "Ava Max",
+    "genre": "Pop"
+  },
+  {
+    "song": "Spot a Fake",
     "artist": "Ava Max",
     "genre": "Pop"
   },
@@ -418,6 +463,11 @@
     "song": "Circus",
     "artist": "Britney Spears",
     "genre": "Pop"
+  },
+  {
+    "song": "Gimme More",
+    "artist": "Britney Spears",
+    "genre": "Dance-Pop"
   },
   {
     "song": "I Wanna Go",
@@ -638,6 +688,11 @@
     "song": "360",
     "artist": "Charli XCX",
     "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Apple",
+    "artist": "Charli XCX",
+    "genre": "Dance-Pop"
   },
   {
     "song": "Speed Drive",
@@ -1030,6 +1085,11 @@
     "genre": "Hip-Hop/Rap"
   },
   {
+    "song": "Boss Bitch",
+    "artist": "Doja Cat",
+    "genre": "Dance-Rap"
+  },
+  {
     "song": "I Need A Doctor",
     "artist": "Dr. Dre ft. Eminem, Skylar Grey",
     "genre": "Hip-Hop/Rap"
@@ -1093,6 +1153,11 @@
     "song": "Stereo Love",
     "artist": "Edward Maya, Vika Jigulina",
     "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Por Que Soy Asi",
+    "artist": "Ela Taubert",
+    "genre": "Pop"
   },
   {
     "song": "Ghost",
@@ -1620,6 +1685,11 @@
     "genre": "Alternative/Indie"
   },
   {
+    "song": "Ego",
+    "artist": "Halsey",
+    "genre": "Pop-Rock"
+  },
+  {
     "song": "Ghost [Lost Kings Remix]",
     "artist": "Halsey",
     "genre": "Dance-Pop"
@@ -1638,6 +1708,21 @@
     "song": "Hurricane [Arty Remix]",
     "artist": "Halsey",
     "genre": "Dance-Pop"
+  },
+  {
+    "song": "Lilith",
+    "artist": "Halsey",
+    "genre": "Alternative/Indie"
+  },
+  {
+    "song": "Lonely is the Muse",
+    "artist": "Halsey",
+    "genre": "Pop-Rock"
+  },
+  {
+    "song": "Lucky",
+    "artist": "Halsey",
+    "genre": "Pop"
   },
   {
     "song": "Now Or Never [R3hab Remix]",
@@ -1677,6 +1762,11 @@
   {
     "song": "Strangers",
     "artist": "Halsey ft. Lauren Jauregui",
+    "genre": "Alternative/Indie"
+  },
+  {
+    "song": "Lilith (Diablo IV Anthem)",
+    "artist": "Halsey ft. SUGA",
     "genre": "Alternative/Indie"
   },
   {
@@ -2085,6 +2175,11 @@
     "genre": "Hip-Hop/Rap"
   },
   {
+    "song": "m.A.A.d city",
+    "artist": "Kendrick Lamar ft. MC Eiht",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
     "song": "Day 'N' Nite [Crookers Remix]",
     "artist": "Kid Cudi",
     "genre": "Dance/Electronic"
@@ -2330,6 +2425,11 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "Stars Will Align",
+    "artist": "Kygo, Imagine Dragons",
+    "genre": "Dance/Electronic"
+  },
+  {
     "song": "Healing (Shattered Heart)",
     "artist": "Kygo, Jonas Brothers",
     "genre": "Dance/Electronic"
@@ -2523,6 +2623,11 @@
     "song": "Right Above It",
     "artist": "Lil Wayne ft. Drake",
     "genre": "Hip-Hop/Rap"
+  },
+  {
+    "song": "Heavy Is The Crown",
+    "artist": "Linkin Park",
+    "genre": "Rock"
   },
   {
     "song": "Leave This Place",
@@ -3365,6 +3470,11 @@
     "genre": "Hip-Hop/Rap"
   },
   {
+    "song": "Pasaporte",
+    "artist": "Rauw Alejandro, Mr. NaisGai",
+    "genre": "Dance-Pop"
+  },
+  {
     "song": "Genius",
     "artist": "Ravyn Lenae",
     "genre": "Pop"
@@ -3491,6 +3601,11 @@
   },
   {
     "song": "Please Please Please",
+    "artist": "Sabrina Carpenter",
+    "genre": "Pop"
+  },
+  {
+    "song": "Taste",
     "artist": "Sabrina Carpenter",
     "genre": "Pop"
   },
@@ -3938,6 +4053,11 @@
     "song": "Fortnight",
     "artist": "Taylor Swift ft. Post Malone",
     "genre": "Pop"
+  },
+  {
+    "song": "Blow for Blow",
+    "artist": "Tee Grizzley ft. J. Cole",
+    "genre": "Hip-Hop/Rap"
   },
   {
     "song": "Falling for You [Le Youth Remix]",
