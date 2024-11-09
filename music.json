@@ -35,6 +35,11 @@
     "genre": "Pop"
   },
   {
+    "song": "Diet Pepsi",
+    "artist": "Addison Rae",
+    "genre": "Pop"
+  },
+  {
     "song": "Take Over Control",
     "artist": "Afrojack ft. Eva Simons",
     "genre": "Dance/Electronic"
@@ -88,6 +93,16 @@
     "song": "I Like It",
     "artist": "Alesso, Nate Smith",
     "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Better",
+    "artist": "Alice Phoebe Lou",
+    "genre": "Alternative/Indie"
+  },
+  {
+    "song": "Will You Love Me When I'm Dead",
+    "artist": "Amira Elfeky",
+    "genre": "Rock"
   },
   {
     "song": "Rise Up",
@@ -163,6 +178,11 @@
     "song": "This Is What It Feels Like",
     "artist": "Armin van Buuren ft. Trevor Guthrie",
     "genre": "Dance/Electronic"
+  },
+  {
+    "song": "how could u love somebody like me",
+    "artist": "Artemas",
+    "genre": "Alternative/Indie"
   },
   {
     "song": "Save Me Tonight",
@@ -435,6 +455,11 @@
     "genre": "Dance-Pop"
   },
   {
+    "song": "Somebody New",
+    "artist": "Blusher",
+    "genre": "Dance-Pop"
+  },
+  {
     "song": "Invincible",
     "artist": "Borgeous",
     "genre": "Dance/Electronic"
@@ -681,6 +706,11 @@
   },
   {
     "song": "Good Luck, Babe!",
+    "artist": "Chappell Roan",
+    "genre": "Pop"
+  },
+  {
+    "song": "HOT TO GO!",
     "artist": "Chappell Roan",
     "genre": "Pop"
   },
@@ -1455,6 +1485,11 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "ARE YOU SERIOUS",
+    "artist": "flowerovlove",
+    "genre": "Pop"
+  },
+  {
     "song": "Say It [Clean Bandit Remix]",
     "artist": "Flume ft. Tove Lo",
     "genre": "Dance/Electronic"
@@ -1550,13 +1585,43 @@
     "genre": "Dance-Pop"
   },
   {
+    "song": "I AIN'T GOING",
+    "artist": "GloRilla",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
+    "song": "LET HER COOK",
+    "artist": "GloRilla",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
     "song": "TGIF [Extended]",
     "artist": "GloRilla",
     "genre": "Hip-Hop/Rap"
   },
   {
+    "song": "STEP",
+    "artist": "GloRilla ft. BossMan Dlow",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
     "song": "Wanna Be [Remix]",
     "artist": "GloRilla ft. Cardi B, Megan Thee Stallion",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
+    "song": "PROCEDURE",
+    "artist": "GloRilla ft. Latto",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
+    "song": "HOW I LOOK",
+    "artist": "GloRilla ft. Megan Thee Stallion",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
+    "song": "WHATCHU KNOW ABOUT ME",
+    "artist": "GloRilla ft. Sexyy Red",
     "genre": "Hip-Hop/Rap"
   },
   {
@@ -1588,6 +1653,11 @@
     "song": "Anything",
     "artist": "Griff",
     "genre": "Alternative/Indie"
+  },
+  {
+    "song": "last night's mascara",
+    "artist": "Griff",
+    "genre": "Pop"
   },
   {
     "song": "Just For A Moment",
@@ -1628,6 +1698,11 @@
     "song": "After You",
     "artist": "Gryffin, Jason Ross ft. Calle Lehmann",
     "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Swallow My Tears",
+    "artist": "Gwen Stefani",
+    "genre": "Pop"
   },
   {
     "song": "The Sweet Escape",
@@ -1710,6 +1785,16 @@
     "genre": "Dance-Pop"
   },
   {
+    "song": "I am not a woman, I'm a god",
+    "artist": "Halsey",
+    "genre": "Alternative/Indie"
+  },
+  {
+    "song": "I Never Loved You",
+    "artist": "Halsey",
+    "genre": "Alternative/Indie"
+  },
+  {
     "song": "Lilith",
     "artist": "Halsey",
     "genre": "Alternative/Indie"
@@ -1728,6 +1813,11 @@
     "song": "Now Or Never [R3hab Remix]",
     "artist": "Halsey",
     "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Panic Attack",
+    "artist": "Halsey",
+    "genre": "Alternative/Indie"
   },
   {
     "song": "So Good",
@@ -1885,6 +1975,11 @@
     "genre": "Hip-Hop/Rap"
   },
   {
+    "song": "Mantra",
+    "artist": "JENNIE",
+    "genre": "Pop"
+  },
+  {
     "song": "All I Am",
     "artist": "Jess Glynne",
     "genre": "Pop"
@@ -1958,6 +2053,11 @@
     "song": "Issues",
     "artist": "Julia Michaels",
     "genre": "Pop"
+  },
+  {
+    "song": "Give My Heart",
+    "artist": "Junior Varsity",
+    "genre": "Alternative/Indie"
   },
   {
     "song": "All Around The World",
@@ -2207,6 +2307,11 @@
   {
     "song": "Jubel",
     "artist": "Klingande",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "hold my hand",
+    "artist": "Knock2 ft. Sophia Gripari",
     "genre": "Dance/Electronic"
   },
   {
@@ -2521,6 +2626,11 @@
   },
   {
     "song": "Born This Way",
+    "artist": "Lady Gaga",
+    "genre": "Pop"
+  },
+  {
+    "song": "Disease",
     "artist": "Lady Gaga",
     "genre": "Pop"
   },
@@ -3110,6 +3220,11 @@
     "genre": "Dance-Pop"
   },
   {
+    "song": "One Eye Open",
+    "artist": "Mimi Webb",
+    "genre": "Pop"
+  },
+  {
     "song": "Undefeated",
     "artist": "Modern Machines ft. Aloma Steele",
     "genre": "Dance/Electronic"
@@ -3118,6 +3233,11 @@
     "song": "Yours Truly",
     "artist": "Mr FijiWiji ft. Danyka Nadeau",
     "genre": "Dance/Electronic"
+  },
+  {
+    "song": "passenger side",
+    "artist": "mxmtoon",
+    "genre": "Alternative/Indie"
   },
   {
     "song": "Lemon [Drake Remix]",
@@ -3223,6 +3343,11 @@
     "song": "Moment 4 Life",
     "artist": "Nicki Minaj ft. Drake",
     "genre": "Pop"
+  },
+  {
+    "song": "FORTY",
+    "artist": "Nicki Nicole",
+    "genre": "Hip-Hop/Rap"
   },
   {
     "song": "Buzz",
@@ -3368,6 +3493,11 @@
     "song": "Daft Punk",
     "artist": "Pentatonix",
     "genre": "Pop"
+  },
+  {
+    "song": "VIRGINIA Boy",
+    "artist": "Pharrell Williams ft. Tyler, The Creator",
+    "genre": "Hip-Hop/Rap"
   },
   {
     "song": "I Feel Good",
@@ -3555,6 +3685,11 @@
     "genre": "Pop"
   },
   {
+    "song": "APT.",
+    "artist": "ROSÉ, Bruno Mars",
+    "genre": "Pop"
+  },
+  {
     "song": "Lay It All on Me",
     "artist": "Rudimental ft. Ed Sheeran",
     "genre": "Dance-Pop"
@@ -3627,6 +3762,11 @@
   {
     "song": "Runaways [Jay Hardway Remix]",
     "artist": "Sam Feldt, Deepend ft. Teemu",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "HOME",
+    "artist": "sam gellaitry",
     "genre": "Dance/Electronic"
   },
   {
@@ -3763,6 +3903,11 @@
     "song": "All My Friends",
     "artist": "Snakehips ft. Tinashe, Chance The Rapper",
     "genre": "Pop"
+  },
+  {
+    "song": "Gorgeous",
+    "artist": "Snoop Dogg ft. Jhené Aiko",
+    "genre": "Hip-Hop/Rap"
   },
   {
     "song": "Young, Wild & Free",
@@ -4070,6 +4215,11 @@
     "genre": "Pop"
   },
   {
+    "song": "War Wounds",
+    "artist": "That Mexican OT ft. Maxo Kreme, Lil Keke",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
     "song": "At Least It Was Here",
     "artist": "The 88",
     "genre": "Pop"
@@ -4285,6 +4435,11 @@
     "genre": "R&B"
   },
   {
+    "song": "Rising With the Dawn",
+    "artist": "Tokyo Chill Music",
+    "genre": "R&B"
+  },
+  {
     "song": "MILLION DOLLAR BABY",
     "artist": "Tommy Richman",
     "genre": "R&B"
@@ -4327,6 +4482,11 @@
   {
     "song": "Taste",
     "artist": "Tyga ft. Offset",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
+    "song": "Sticky",
+    "artist": "Tyler, The Creator ft. GloRilla, Sexyy Red, Lil Wayne",
     "genre": "Hip-Hop/Rap"
   },
   {
@@ -4407,6 +4567,11 @@
   {
     "song": "See You Again",
     "artist": "Wiz Khalifa ft. Charlie Puth",
+    "genre": "Pop-Rap"
+  },
+  {
+    "song": "HOWLING",
+    "artist": "XG",
     "genre": "Pop-Rap"
   },
   {
