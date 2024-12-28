@@ -71,7 +71,7 @@
   },
   {
     "song": "Darkside",
-    "artist": "Alan Walker ft. Tomine Harket, Au/Ra",
+    "artist": "Alan Walker ft. Au/Ra, Tomine Harket",
     "genre": "Dance/Electronic"
   },
   {
@@ -326,12 +326,17 @@
   },
   {
     "song": "Airplanes",
-    "artist": "B.o.B. ft. Hayley Williams",
+    "artist": "B.o.B ft. Hayley Williams",
     "genre": "Pop-Rap"
   },
   {
     "song": "Airplanes, Pt. II",
-    "artist": "B.o.B. ft. Hayley Williams, Eminem",
+    "artist": "B.o.B ft. Hayley Williams, Eminem",
+    "genre": "Pop-Rap"
+  },
+  {
+    "song": "Magic",
+    "artist": "B.o.B ft. Rivers Cuomo",
     "genre": "Pop-Rap"
   },
   {
@@ -711,7 +716,7 @@
   },
   {
     "song": "Hot Shower",
-    "artist": "Chance The Rapper ft. MadeinTYO, DaBaby",
+    "artist": "Chance the Rapper ft. MadeinTYO, DaBaby",
     "genre": "Hip-Hop/Rap"
   },
   {
@@ -925,36 +930,6 @@
     "genre": "Dance/Electronic"
   },
   {
-    "song": "2010 Pop Danthology",
-    "artist": "Daniel Kim",
-    "genre": "Pop"
-  },
-  {
-    "song": "2011 Pop Danthology",
-    "artist": "Daniel Kim",
-    "genre": "Pop"
-  },
-  {
-    "song": "2012 Pop Danthology",
-    "artist": "Daniel Kim",
-    "genre": "Pop"
-  },
-  {
-    "song": "2013 Pop Danthology",
-    "artist": "Daniel Kim",
-    "genre": "Pop"
-  },
-  {
-    "song": "2014 Pop Danthology",
-    "artist": "Daniel Kim",
-    "genre": "Pop"
-  },
-  {
-    "song": "2015 Pop Danthology",
-    "artist": "Daniel Kim",
-    "genre": "Pop"
-  },
-  {
     "song": "21",
     "artist": "Darko",
     "genre": "Hip-Hop/Rap"
@@ -1018,6 +993,11 @@
     "song": "Dirty Sexy Money",
     "artist": "David Guetta, Afrojack ft. Charli XCX, French Montana",
     "genre": "Dance-Pop"
+  },
+  {
+    "song": "Forever Young",
+    "artist": "David Guetta, Alphaville, Ava Max",
+    "genre": "Dance/Electronic"
   },
   {
     "song": "Baby Don't Hurt Me",
@@ -1206,7 +1186,7 @@
   },
   {
     "song": "Cross Me",
-    "artist": "Ed Sheeran ft. Chance The Rapper, PnB Rock",
+    "artist": "Ed Sheeran ft. Chance the Rapper, PnB Rock",
     "genre": "Pop"
   },
   {
@@ -1252,6 +1232,11 @@
   {
     "song": "Too Precious",
     "artist": "Em Beihold",
+    "genre": "Pop"
+  },
+  {
+    "song": "25",
+    "artist": "Emily James",
     "genre": "Pop"
   },
   {
@@ -1441,7 +1426,7 @@
   },
   {
     "song": "A Little Party Never Killed Nobody (All We Got)",
-    "artist": "Fergie, Q-Tip, GoonRock",
+    "artist": "Fergie ft. Q-Tip, GoonRock",
     "genre": "Dance-Pop"
   },
   {
@@ -1515,7 +1500,7 @@
     "genre": "Dance/Electronic"
   },
   {
-    "song": "ARE YOU SERIOUS",
+    "song": "ARE U SERIOUS",
     "artist": "flowerovlove",
     "genre": "Pop"
   },
@@ -1655,7 +1640,7 @@
     "genre": "Hip-Hop/Rap"
   },
   {
-    "song": "WHATCHU KNOW ABOUT ME",
+    "song": "WHATCHU KNO ABOUT ME",
     "artist": "GloRilla ft. Sexyy Red",
     "genre": "Hip-Hop/Rap"
   },
@@ -1766,7 +1751,7 @@
   },
   {
     "song": "Capital Letters",
-    "artist": "Hailee Steinfeld, Bloodpop",
+    "artist": "Hailee Steinfeld, BloodPop",
     "genre": "Pop"
   },
   {
@@ -1895,7 +1880,7 @@
     "genre": "Alternative/Indie"
   },
   {
-    "song": "We Run The Night [Red One Remix]",
+    "song": "We Run The Night [RedOne Remix]",
     "artist": "Havana Brown ft. Pitbull",
     "genre": "Dance/Electronic"
   },
@@ -1903,6 +1888,11 @@
     "song": "Chance On Faith",
     "artist": "Heather Sommer, Uplink",
     "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Letter to My Mentors",
+    "artist": "Hit-Boy",
+    "genre": "Hip-Hop/Rap"
   },
   {
     "song": "Run Back to You",
@@ -2060,6 +2050,11 @@
     "genre": "Pop"
   },
   {
+    "song": "Tornado Boy",
+    "artist": "Jillian Rossi",
+    "genre": "Pop"
+  },
+  {
     "song": "Running Wild",
     "artist": "Jin",
     "genre": "Pop"
@@ -2116,7 +2111,7 @@
   },
   {
     "song": "Friends",
-    "artist": "Justin Bieber, Bloodpop ft. Julia Michaels",
+    "artist": "Justin Bieber, BloodPop ft. Julia Michaels",
     "genre": "Pop"
   },
   {
@@ -2815,7 +2810,7 @@
     "genre": "Hip-Hop/Rap"
   },
   {
-    "song": "Heavy Is The Crown",
+    "song": "Heavy Is the Crown",
     "artist": "Linkin Park",
     "genre": "Rock"
   },
@@ -2896,7 +2891,7 @@
   },
   {
     "song": "Anti-Everything",
-    "artist": "Lost Kings, Loren Gray",
+    "artist": "Lost Kings ft. Loren Gray",
     "genre": "Dance-Pop"
   },
   {
@@ -2925,14 +2920,14 @@
     "genre": "Hip-Hop/Rap"
   },
   {
-    "song": "Hip-Hop Saved My Life",
-    "artist": "Lupe Fiasco",
-    "genre": "Hip-Hop/Rap"
-  },
-  {
     "song": "The Show Goes On",
     "artist": "Lupe Fiasco",
     "genre": "Pop-Rap"
+  },
+  {
+    "song": "Hip-Hop Saved My Life",
+    "artist": "Lupe Fiasco ft. Nikki Jean",
+    "genre": "Hip-Hop/Rap"
   },
   {
     "song": "First Time",
@@ -3845,7 +3840,7 @@
     "genre": "Dance-Pop"
   },
   {
-    "song": "Bad Chem",
+    "song": "Bed Chem",
     "artist": "Sabrina Carpenter",
     "genre": "Pop"
   },
@@ -4031,7 +4026,7 @@
   },
   {
     "song": "All My Friends",
-    "artist": "Snakehips ft. Tinashe, Chance The Rapper",
+    "artist": "Snakehips ft. Tinashe, Chance the Rapper",
     "genre": "Pop"
   },
   {
@@ -4125,7 +4120,7 @@
     "genre": "Pop"
   },
   {
-    "song": "Back To December",
+    "song": "Back To December (Taylor's Version)",
     "artist": "Taylor Swift",
     "genre": "Pop"
   },
@@ -4227,10 +4222,10 @@
   {
     "song": "Message In A Bottle (Taylor's Version) [Fat Max G Remix]",
     "artist": "Taylor Swift",
-    "genre": "Pop"
+    "genre": "Dance-Pop"
   },
   {
-    "song": "Mine",
+    "song": "Mine (Taylor's Version)",
     "artist": "Taylor Swift",
     "genre": "Pop"
   },
@@ -4250,7 +4245,7 @@
     "genre": "Pop"
   },
   {
-    "song": "Sparks Fly",
+    "song": "Sparks Fly (Taylor's Version)",
     "artist": "Taylor Swift",
     "genre": "Pop"
   },
@@ -4275,7 +4270,7 @@
     "genre": "Pop"
   },
   {
-    "song": "The Story Of Us",
+    "song": "The Story Of Us (Taylor's Version)",
     "artist": "Taylor Swift",
     "genre": "Pop"
   },
