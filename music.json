@@ -400,6 +400,11 @@
     "genre": "Pop"
   },
   {
+    "song": "Never Been Yours",
+    "artist": "Benny Benassi, Oaks",
+    "genre": "Dance/Electronic"
+  },
+  {
     "song": "Crazy In Love",
     "artist": "Beyoncé ft. JAY-Z",
     "genre": "R&B"
@@ -810,6 +815,11 @@
     "genre": "Pop"
   },
   {
+    "song": "21st Century Cool Girl",
+    "artist": "Chloe Qisha",
+    "genre": "Alternative/Indie"
+  },
+  {
     "song": "I Lied, I'm Sorry",
     "artist": "Chloe Qisha",
     "genre": "Alternative/Indie"
@@ -1118,6 +1128,11 @@
     "song": "You Know You Like It",
     "artist": "DJ Snake, AlunaGeorge",
     "genre": "Dance/Electronic"
+  },
+  {
+    "song": "DENIAL IS A RIVER",
+    "artist": "Doechii",
+    "genre": "Hip-Hop/Rap"
   },
   {
     "song": "GTFO",
@@ -1507,6 +1522,11 @@
   {
     "song": "Say It [Clean Bandit Remix]",
     "artist": "Flume ft. Tove Lo",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "In The Night",
+    "artist": "Fly By Midnight",
     "genre": "Dance/Electronic"
   },
   {
@@ -1918,6 +1938,11 @@
     "song": "Kream",
     "artist": "Iggy Azalea ft. Tyga",
     "genre": "Hip-Hop/Rap"
+  },
+  {
+    "song": "Reverie",
+    "artist": "ILLENIUM ft. King Deco",
+    "genre": "Dance/Electronic"
   },
   {
     "song": "Hold On [Midnight Kids Remix]",
@@ -2401,11 +2426,6 @@
   },
   {
     "song": "Found Another Love",
-    "artist": "Kygo",
-    "genre": "Dance/Electronic"
-  },
-  {
-    "song": "Wait [Kygo Remix]",
     "artist": "Kygo",
     "genre": "Dance/Electronic"
   },
@@ -3457,22 +3477,27 @@
   {
     "song": "I Wanna Know",
     "artist": "NOTD ft. Bea Miller",
-    "genre": "Dance-Pop"
+    "genre": "Dance/Electronic"
   },
   {
     "song": "I Don't Know Why",
     "artist": "NOTD, Astrid S",
-    "genre": "Dance-Pop"
+    "genre": "Dance/Electronic"
   },
   {
     "song": "So Close",
     "artist": "NOTD, Felix Jaehn ft. Captain Cuts, Georgia Ku",
-    "genre": "Dance-Pop"
+    "genre": "Dance/Electronic"
   },
   {
     "song": "AM:PM",
     "artist": "NOTD, Maia Wright",
-    "genre": "Dance-Pop"
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Cry Dancing",
+    "artist": "NOTD, Nina Nesbitt",
+    "genre": "Dance/Electronic"
   },
   {
     "song": "Generous [Martin Jensen Remix]",
@@ -3650,6 +3675,11 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "Look at the Sky",
+    "artist": "Porter Robinson",
+    "genre": "Dance/Electronic"
+  },
+  {
     "song": "Perfect Pinterest Garden",
     "artist": "Porter Robinson",
     "genre": "Dance-Pop"
@@ -3661,6 +3691,11 @@
   },
   {
     "song": "Sad Machine",
+    "artist": "Porter Robinson",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Something Comforting",
     "artist": "Porter Robinson",
     "genre": "Dance/Electronic"
   },
@@ -4612,6 +4647,11 @@
   {
     "song": "Taste",
     "artist": "Tyga ft. Offset",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
+    "song": "THAT GUY",
+    "artist": "Tyler, The Creator",
     "genre": "Hip-Hop/Rap"
   },
   {
