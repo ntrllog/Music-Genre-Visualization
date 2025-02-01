@@ -38,6 +38,8 @@ for item in dir_list:
 
     path = f"C:/Users/alanl/Music/{item}"
     file = eyed3.load(path)
+    if file.tag.artist and file.tag.title and file.tag.genre:
+        continue
     file.tag.artist = artist
     file.tag.title = title
     file.tag.genre = genre
