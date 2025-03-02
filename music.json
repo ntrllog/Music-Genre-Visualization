@@ -95,6 +95,11 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "Face Like Yours",
+    "artist": "Alex Porat",
+    "genre": "Pop"
+  },
+  {
     "song": "Better",
     "artist": "Alice Phoebe Lou",
     "genre": "Alternative/Indie"
@@ -815,6 +820,11 @@
     "genre": "Pop"
   },
   {
+    "song": "hate it",
+    "artist": "chloe moriondo",
+    "genre": "Alternative/Indie"
+  },
+  {
     "song": "21st Century Cool Girl",
     "artist": "Chloe Qisha",
     "genre": "Alternative/Indie"
@@ -900,9 +910,19 @@
     "genre": "Dance-Pop"
   },
   {
+    "song": "Lick Back",
+    "artist": "Coi Leray",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
     "song": "My Universe",
     "artist": "Coldplay, BTS",
     "genre": "Pop"
+  },
+  {
+    "song": "Still Hot",
+    "artist": "Connor Price, Nic D",
+    "genre": "Hip-Hop/Rap"
   },
   {
     "song": "Hold Me Up",
@@ -1145,6 +1165,11 @@
     "genre": "Dance-Rap"
   },
   {
+    "song": "Too Much",
+    "artist": "Dove Cameron",
+    "genre": "Pop"
+  },
+  {
     "song": "I Need A Doctor",
     "artist": "Dr. Dre ft. Eminem, Skylar Grey",
     "genre": "Hip-Hop/Rap"
@@ -1193,6 +1218,11 @@
     "song": "Levitating",
     "artist": "Dua Lipa ft. DaBaby",
     "genre": "Dance-Pop"
+  },
+  {
+    "song": "Boyz-N-The-Hood",
+    "artist": "Eazy-E",
+    "genre": "Hip-Hop/Rap"
   },
   {
     "song": "Cool Kids",
@@ -1517,7 +1547,12 @@
   {
     "song": "ARE U SERIOUS",
     "artist": "flowerovlove",
-    "genre": "Pop"
+    "genre": "Alternative/Indie"
+  },
+  {
+    "song": "I've seen ur ex",
+    "artist": "flowerovlove",
+    "genre": "Alternative/Indie"
   },
   {
     "song": "Say It [Clean Bandit Remix]",
@@ -2265,11 +2300,6 @@
     "genre": "Pop"
   },
   {
-    "song": "Chained To The Rhythm",
-    "artist": "Katy Perry ft. Skip Marley",
-    "genre": "Pop"
-  },
-  {
     "song": "California Gurls",
     "artist": "Katy Perry ft. Snoop Dogg",
     "genre": "Pop"
@@ -2303,6 +2333,11 @@
     "song": "Your Love Is My Drug",
     "artist": "Ke$ha",
     "genre": "Pop"
+  },
+  {
+    "song": "Behind These Hazel Eyes",
+    "artist": "Kelly Clarkson",
+    "genre": "Pop-Rock"
   },
   {
     "song": "Catch My Breath",
@@ -2361,6 +2396,11 @@
   },
   {
     "song": "tv off",
+    "artist": "Kendrick Lamar",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
+    "song": "wacced out murals",
     "artist": "Kendrick Lamar",
     "genre": "Hip-Hop/Rap"
   },
@@ -2502,11 +2542,6 @@
   {
     "song": "Stay",
     "artist": "Kygo ft. Maty Noyes",
-    "genre": "Dance/Electronic"
-  },
-  {
-    "song": "Remind Me to Forget",
-    "artist": "Kygo ft. Miguel",
     "genre": "Dance/Electronic"
   },
   {
@@ -2840,9 +2875,14 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "FXCK UP THE WORLD",
+    "artist": "LISA ft. Future",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
     "song": "Good as Hell",
     "artist": "Lizzo ft. Ariana Grande",
-    "genre": "Pop-Rap"
+    "genre": "Pop"
   },
   {
     "song": "Party Rock Anthem",
@@ -3880,6 +3920,11 @@
     "genre": "Pop"
   },
   {
+    "song": "Busy Woman",
+    "artist": "Sabrina Carpenter",
+    "genre": "Pop"
+  },
+  {
     "song": "Espresso",
     "artist": "Sabrina Carpenter",
     "genre": "Pop"
@@ -3987,6 +4032,11 @@
   {
     "song": "Naturally",
     "artist": "Selena Gomez & The Scene",
+    "genre": "Pop"
+  },
+  {
+    "song": "Call Me When You Break Up",
+    "artist": "Selena Gomez, benny blanco, Gracie Abrams",
     "genre": "Pop"
   },
   {
@@ -4100,6 +4150,11 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "Radio",
+    "artist": "Steve Aoki ft. Trippie Redd, Jessica Baio, KABU",
+    "genre": "Dance/Electronic"
+  },
+  {
     "song": "Just Hold On",
     "artist": "Steve Aoki, Louis Tomlinson",
     "genre": "Dance-Pop"
@@ -4130,7 +4185,27 @@
     "genre": "Pop"
   },
   {
+    "song": "Miss possessive",
+    "artist": "Tate McRae",
+    "genre": "Pop"
+  },
+  {
+    "song": "Purple lace bra",
+    "artist": "Tate McRae",
+    "genre": "Pop"
+  },
+  {
     "song": "she's all i wanna be",
+    "artist": "Tate McRae",
+    "genre": "Pop"
+  },
+  {
+    "song": "Siren sounds",
+    "artist": "Tate McRae",
+    "genre": "Pop"
+  },
+  {
+    "song": "Sports car",
     "artist": "Tate McRae",
     "genre": "Pop"
   },
@@ -4530,11 +4605,6 @@
     "genre": "Pop-Rock"
   },
   {
-    "song": "Rapper's Delight",
-    "artist": "The Sugarhill Gang",
-    "genre": "Hip-Hop/Rap"
-  },
-  {
     "song": "Pray For Me",
     "artist": "The Weeknd, Kendrick Lamar",
     "genre": "Pop-Rap"
@@ -4617,6 +4687,11 @@
   {
     "song": "Talking Body",
     "artist": "Tove Lo",
+    "genre": "Pop"
+  },
+  {
+    "song": "Drive By",
+    "artist": "Train",
     "genre": "Pop"
   },
   {
