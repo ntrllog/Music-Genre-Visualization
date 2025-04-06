@@ -20,6 +20,11 @@
     "genre": "Hip-Hop/Rap"
   },
   {
+    "song": "permission slip",
+    "artist": "310babii, Babytron",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
     "song": "N.P.O.",
     "artist": "42 Dugg ft. Sexyy Red",
     "genre": "Hip-Hop/Rap"
@@ -145,6 +150,16 @@
     "genre": "R&B"
   },
   {
+    "song": "twilight zone",
+    "artist": "Ariana Grande",
+    "genre": "Pop"
+  },
+  {
+    "song": "warm",
+    "artist": "Ariana Grande",
+    "genre": "Pop"
+  },
+  {
     "song": "we can't be friends (wait for your love)",
     "artist": "Ariana Grande",
     "genre": "Pop"
@@ -210,8 +225,23 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "Superhero",
+    "artist": "Audien",
+    "genre": "Dance/Electronic"
+  },
+  {
     "song": "Wish It Was You",
     "artist": "Audien ft. Cate Downey",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Living in Color",
+    "artist": "Audien ft. Jeoff Harris",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Drifting Away",
+    "artist": "Audien ft. Joe Jury",
     "genre": "Dance/Electronic"
   },
   {
@@ -310,6 +340,11 @@
     "genre": "Pop"
   },
   {
+    "song": "Wish You Well",
+    "artist": "Avery Anna",
+    "genre": "Country-Pop"
+  },
+  {
     "song": "Levels",
     "artist": "Avicii",
     "genre": "Dance/Electronic"
@@ -343,6 +378,11 @@
     "song": "Magic",
     "artist": "B.o.B ft. Rivers Cuomo",
     "genre": "Pop-Rap"
+  },
+  {
+    "song": "Too Pretty For Buffalo",
+    "artist": "Baby Nova",
+    "genre": "Alternative/Indie"
   },
   {
     "song": "Never Say Never",
@@ -835,6 +875,11 @@
     "genre": "Alternative/Indie"
   },
   {
+    "song": "Sex, Drugs & Existential Dread",
+    "artist": "Chloe Qisha",
+    "genre": "Alternative/Indie"
+  },
+  {
     "song": "Fig Tree",
     "artist": "Chloe Slater",
     "genre": "Alternative/Indie"
@@ -1148,6 +1193,11 @@
     "song": "You Know You Like It",
     "artist": "DJ Snake, AlunaGeorge",
     "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Anxiety",
+    "artist": "Doechii",
+    "genre": "Pop-Rap"
   },
   {
     "song": "DENIAL IS A RIVER",
@@ -1742,7 +1792,7 @@
   {
     "song": "Bye Bye",
     "artist": "Gryffin ft. Ivy Adara",
-    "genre": "Dance-Pop"
+    "genre": "Dance/Electronic"
   },
   {
     "song": "Nobody Compares To You",
@@ -1895,6 +1945,11 @@
     "genre": "Alternative/Indie"
   },
   {
+    "song": "safeword",
+    "artist": "Halsey",
+    "genre": "Pop-Rock"
+  },
+  {
     "song": "So Good",
     "artist": "Halsey",
     "genre": "Pop"
@@ -2021,6 +2076,11 @@
   },
   {
     "song": "Angel Of My Dreams",
+    "artist": "JADE",
+    "genre": "Pop"
+  },
+  {
+    "song": "FUFN (Fuck You For Now)",
     "artist": "JADE",
     "genre": "Pop"
   },
@@ -2482,7 +2542,7 @@
   {
     "song": "Lonely Together",
     "artist": "Kygo ft. Dagny",
-    "genre": "Dance-Pop"
+    "genre": "Dance/Electronic"
   },
   {
     "song": "Lost Without You",
@@ -2756,6 +2816,11 @@
   },
   {
     "song": "Disease",
+    "artist": "Lady Gaga",
+    "genre": "Pop"
+  },
+  {
+    "song": "Garden Of Eden",
     "artist": "Lady Gaga",
     "genre": "Pop"
   },
@@ -3722,7 +3787,7 @@
   {
     "song": "Perfect Pinterest Garden",
     "artist": "Porter Robinson",
-    "genre": "Dance-Pop"
+    "genre": "Dance/Electronic"
   },
   {
     "song": "Russian Roulette",
@@ -3910,9 +3975,19 @@
     "genre": "Pop"
   },
   {
+    "song": "Mirror",
+    "artist": "SABAI ft. Danni Carra",
+    "genre": "Dance/Electronic"
+  },
+  {
     "song": "Million Days",
     "artist": "SABAI ft. Hoang, Claire Ridgely",
-    "genre": "Dance-Pop"
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "North Star",
+    "artist": "SABAI, Hoang ft. Casey Cook",
+    "genre": "Dance/Electronic"
   },
   {
     "song": "Bed Chem",
@@ -3978,6 +4053,11 @@
     "song": "Dancing With A Stranger",
     "artist": "Sam Smith, Normani",
     "genre": "Pop"
+  },
+  {
+    "song": "Pop n Olive",
+    "artist": "Samara Cyn, Sherwin",
+    "genre": "Alternative/Indie"
   },
   {
     "song": "Love Song",
@@ -4707,7 +4787,7 @@
   {
     "song": "Hung Up",
     "artist": "Tritonal, Sj ft. Emma Gatsby",
-    "genre": "Dance-Pop"
+    "genre": "Dance/Electronic"
   },
   {
     "song": "Strategy",
