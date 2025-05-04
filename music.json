@@ -110,6 +110,11 @@
     "genre": "Alternative/Indie"
   },
   {
+    "song": "can't slow down",
+    "artist": "almost monday",
+    "genre": "Alternative/Indie"
+  },
+  {
     "song": "Will You Love Me When I'm Dead",
     "artist": "Amira Elfeky",
     "genre": "Rock"
@@ -480,6 +485,11 @@
     "genre": "Hip-Hop/Rap"
   },
   {
+    "song": "The Largest",
+    "artist": "BigXthaPlug",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
     "song": "BIRDS OF A FEATHER",
     "artist": "Billie Eilish",
     "genre": "Pop"
@@ -508,6 +518,11 @@
     "song": "Mona Lisa On A Mattress",
     "artist": "Bishop Briggs",
     "genre": "Pop"
+  },
+  {
+    "song": "hot girl bummer",
+    "artist": "blackbear",
+    "genre": "Pop-Rap"
   },
   {
     "song": "Deserve Each Other",
@@ -1213,6 +1228,16 @@
     "song": "Boss Bitch",
     "artist": "Doja Cat",
     "genre": "Dance-Rap"
+  },
+  {
+    "song": "Forever",
+    "artist": "Dom Dolla, Kid Cudi",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "French Girls",
+    "artist": "Dove Cameron",
+    "genre": "Pop"
   },
   {
     "song": "Too Much",
@@ -2055,6 +2080,11 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "Hope It Hurts",
+    "artist": "Isabel LaRosa",
+    "genre": "Pop"
+  },
+  {
     "song": "Pretty Boy",
     "artist": "Isabel LaRosa",
     "genre": "Dance-Pop"
@@ -2218,11 +2248,6 @@
     "song": "Issues",
     "artist": "Julia Michaels",
     "genre": "Pop"
-  },
-  {
-    "song": "Give My Heart",
-    "artist": "Junior Varsity",
-    "genre": "Alternative/Indie"
   },
   {
     "song": "All Around The World",
@@ -3015,6 +3040,11 @@
     "genre": "Dance-Pop"
   },
   {
+    "song": "What Was That",
+    "artist": "Lorde",
+    "genre": "Alternative/Indie"
+  },
+  {
     "song": "Anti-Everything",
     "artist": "Lost Kings ft. Loren Gray",
     "genre": "Dance-Pop"
@@ -3251,6 +3281,11 @@
   },
   {
     "song": "Savage",
+    "artist": "Megan Thee Stallion",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
+    "song": "Whenever",
     "artist": "Megan Thee Stallion",
     "genre": "Hip-Hop/Rap"
   },
@@ -4115,9 +4150,19 @@
     "genre": "Pop"
   },
   {
+    "song": "Talk",
+    "artist": "Selena Gomez, benny blanco",
+    "genre": "Pop"
+  },
+  {
     "song": "Call Me When You Break Up",
     "artist": "Selena Gomez, benny blanco, Gracie Abrams",
     "genre": "Pop"
+  },
+  {
+    "song": "Ojos Tristes",
+    "artist": "Selena Gomez, benny blanco, The Marias",
+    "genre": "Alternative/Indie"
   },
   {
     "song": "Wolves [Vanrip Remix]",
@@ -4223,6 +4268,11 @@
     "song": "Call on Me [Ryan Riback Remix]",
     "artist": "Starley",
     "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Nothing's Gonna Stop Us Now",
+    "artist": "Starship",
+    "genre": "Soft Rock"
   },
   {
     "song": "Come With Me (Deadmeat) [Deorro Remix]",
