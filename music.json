@@ -10,6 +10,11 @@
     "genre": "Hip-Hop/Rap"
   },
   {
+    "song": "Self-Inflicted",
+    "artist": "$uicideboy$",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
     "song": "The Thin Grey Line",
     "artist": "$uicideboy$",
     "genre": "Hip-Hop/Rap"
@@ -41,6 +46,11 @@
   },
   {
     "song": "Diet Pepsi",
+    "artist": "Addison Rae",
+    "genre": "Pop"
+  },
+  {
+    "song": "Fame is a Gun",
     "artist": "Addison Rae",
     "genre": "Pop"
   },
@@ -352,6 +362,11 @@
   {
     "song": "Levels",
     "artist": "Avicii",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Let's Ride Away",
+    "artist": "Avicii ft. Elle King",
     "genre": "Dance/Electronic"
   },
   {
@@ -1230,6 +1245,11 @@
     "genre": "Dance-Rap"
   },
   {
+    "song": "No Room For A Saint",
+    "artist": "Dom Dolla ft. Nathan Nicholson",
+    "genre": "Dance/Electronic"
+  },
+  {
     "song": "Forever",
     "artist": "Dom Dolla, Kid Cudi",
     "genre": "Dance/Electronic"
@@ -2015,6 +2035,11 @@
     "genre": "Alternative/Indie"
   },
   {
+    "song": "Hand That Feeds",
+    "artist": "Halsey, Amy Lee",
+    "genre": "Rock"
+  },
+  {
     "song": "We Run The Night [RedOne Remix]",
     "artist": "Havana Brown ft. Pitbull",
     "genre": "Dance/Electronic"
@@ -2057,6 +2082,11 @@
   {
     "song": "Reverie",
     "artist": "ILLENIUM ft. King Deco",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "In My Arms",
+    "artist": "ILLENIUM, HAYLA",
     "genre": "Dance/Electronic"
   },
   {
@@ -2305,6 +2335,11 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "Last Chance",
+    "artist": "Kaskade, Project 46",
+    "genre": "Dance/Electronic"
+  },
+  {
     "song": "Merry Happy",
     "artist": "Kate Nash",
     "genre": "Pop"
@@ -2470,23 +2505,23 @@
     "genre": "Hip-Hop/Rap"
   },
   {
-    "song": "peekaboo",
-    "artist": "Kendrick Lamar",
-    "genre": "Hip-Hop/Rap"
-  },
-  {
     "song": "squabble up",
-    "artist": "Kendrick Lamar",
-    "genre": "Hip-Hop/Rap"
-  },
-  {
-    "song": "tv off",
     "artist": "Kendrick Lamar",
     "genre": "Hip-Hop/Rap"
   },
   {
     "song": "wacced out murals",
     "artist": "Kendrick Lamar",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
+    "song": "peekaboo",
+    "artist": "Kendrick Lamar ft. AZ Chike",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
+    "song": "tv off",
+    "artist": "Kendrick Lamar ft. Lefty Gunplay",
     "genre": "Hip-Hop/Rap"
   },
   {
@@ -3225,6 +3260,11 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "MAD",
+    "artist": "Martin Garrix, Lauv",
+    "genre": "Dance/Electronic"
+  },
+  {
     "song": "Solo Dance",
     "artist": "Martin Jensen",
     "genre": "Dance/Electronic"
@@ -3308,6 +3348,11 @@
     "song": "Pity Party",
     "artist": "Melanie Martinez",
     "genre": "Alternative/Indie"
+  },
+  {
+    "song": "DROP TOP",
+    "artist": "MEOVV",
+    "genre": "K-Pop"
   },
   {
     "song": "beauty",
@@ -3470,6 +3515,11 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "That's Gonna Leave a Mark",
+    "artist": "Molly Tuttle",
+    "genre": "Alternative/Indie"
+  },
+  {
     "song": "Ohio All The Time",
     "artist": "Momma",
     "genre": "Alternative/Indie"
@@ -3532,6 +3582,11 @@
   {
     "song": "Red Flag",
     "artist": "NERIAH",
+    "genre": "Pop"
+  },
+  {
+    "song": "dying on the inside",
+    "artist": "Nessa Barrett",
     "genre": "Pop"
   },
   {
@@ -3598,6 +3653,16 @@
     "song": "FORTY",
     "artist": "Nicki Nicole",
     "genre": "Hip-Hop/Rap"
+  },
+  {
+    "song": "i wish you loved me",
+    "artist": "Nightly",
+    "genre": "Alternative/Indie"
+  },
+  {
+    "song": "Twenty Something",
+    "artist": "Nightly",
+    "genre": "Alternative/Indie"
   },
   {
     "song": "Buzz",
@@ -3940,6 +4005,11 @@
     "genre": "Pop"
   },
   {
+    "song": "I Wanna Know",
+    "artist": "RL Grime ft. Daya",
+    "genre": "Dance/Electronic"
+  },
+  {
     "song": "On Dat Money",
     "artist": "Rob49, Cardi B",
     "genre": "Hip-Hop/Rap"
@@ -4178,6 +4248,11 @@
     "song": "Strangers",
     "artist": "Seven Lions, Myon & Shane 54 ft. Tove Lo",
     "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Loba",
+    "artist": "Shakira",
+    "genre": "Pop"
   },
   {
     "song": "She Wolf",
@@ -4565,6 +4640,11 @@
     "genre": "Pop"
   },
   {
+    "song": "Robbery 9",
+    "artist": "Tee Grizzley",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
     "song": "Blow for Blow",
     "artist": "Tee Grizzley ft. J. Cole",
     "genre": "Hip-Hop/Rap"
@@ -4582,6 +4662,11 @@
   {
     "song": "War Wounds",
     "artist": "That Mexican OT ft. Maxo Kreme, Lil Keke",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
+    "song": "Baby Mad At Me",
+    "artist": "That Mexican OT, Lil Wayne",
     "genre": "Hip-Hop/Rap"
   },
   {
@@ -4773,6 +4858,11 @@
     "song": "Ritual",
     "artist": "Tiësto, Jonas Blue, Rita Ora",
     "genre": "Dance-Pop"
+  },
+  {
+    "song": "Won't Be Possible",
+    "artist": "Tiësto, Odd Mob, Goodboys",
+    "genre": "Dance/Electronic"
   },
   {
     "song": "Once In a While",
