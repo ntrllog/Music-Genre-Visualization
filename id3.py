@@ -17,7 +17,8 @@ edge_cases = {
     '...Ready For It': '...Ready For It?',
     "Is It Over Now (Taylor's Version)": "Is It Over Now? (Taylor's Version)",
     '1035': '10:35',
-    'Alan Walker ft. AuRa, Tomine Harket': 'Alan Walker ft. Au/Ra, Tomine Harket'
+    'Alan Walker ft. AuRa, Tomine Harket': 'Alan Walker ft. Au/Ra, Tomine Harket',
+    'Why Is She Still Here': 'Why Is She Still Here?'
 }
 
 json_df = pd.read_json('music.json')
@@ -57,5 +58,7 @@ for item in dir_list:
 
     entry = sheet_df[(sheet_df['song'] == title) & (sheet_df['artist'] == artist) & (sheet_df['genre'] == genre)]
     if entry.empty:
+        print('WARNING')
         print(artist, title, genre)
+        print('is not in the Google Sheet')
         break
