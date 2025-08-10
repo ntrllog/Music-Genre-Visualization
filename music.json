@@ -20,6 +20,11 @@
     "genre": "Hip-Hop/Rap"
   },
   {
+    "song": "We Own It",
+    "artist": "2 Chainz, Wiz Khalifa",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
     "song": "redrum",
     "artist": "21 Savage",
     "genre": "Hip-Hop/Rap"
@@ -56,7 +61,12 @@
   },
   {
     "song": "Take Over Control",
-    "artist": "Afrojack ft. Eva Simons",
+    "artist": "AFROJACK ft. Eva Simons",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Our Time",
+    "artist": "AFROJACK, Martin Garrix, David Guetta, Amél",
     "genre": "Dance/Electronic"
   },
   {
@@ -1335,6 +1345,11 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "Drama Baby",
+    "artist": "Eileen Alister",
+    "genre": "Pop"
+  },
+  {
     "song": "Por Que Soy Asi",
     "artist": "Ela Taubert",
     "genre": "Pop"
@@ -1363,6 +1378,11 @@
     "song": "Something In The Way You Move",
     "artist": "Ellie Goulding",
     "genre": "Pop"
+  },
+  {
+    "song": "I Wanna Go",
+    "artist": "Ely Oaks, LAVINIA",
+    "genre": "Dance/Electronic"
   },
   {
     "song": "Numb Little Bug",
@@ -1646,6 +1666,11 @@
   },
   {
     "song": "I've seen ur ex",
+    "artist": "flowerovlove",
+    "genre": "Alternative/Indie"
+  },
+  {
+    "song": "new friends",
     "artist": "flowerovlove",
     "genre": "Alternative/Indie"
   },
@@ -2185,6 +2210,11 @@
     "genre": "Hip-Hop/Rap"
   },
   {
+    "song": "Hvn High",
+    "artist": "Jenevieve",
+    "genre": "R&B"
+  },
+  {
     "song": "Mantra",
     "artist": "JENNIE",
     "genre": "Pop"
@@ -2288,6 +2318,11 @@
     "song": "Friends",
     "artist": "Justin Bieber, BloodPop ft. Julia Michaels",
     "genre": "Pop"
+  },
+  {
+    "song": "Dat Girl",
+    "artist": "Kaliii",
+    "genre": "Hip-Hop/Rap"
   },
   {
     "song": "POWER",
@@ -2528,6 +2563,11 @@
     "song": "m.A.A.d city",
     "artist": "Kendrick Lamar ft. MC Eiht",
     "genre": "Hip-Hop/Rap"
+  },
+  {
+    "song": "THE ONE.",
+    "artist": "Kesha",
+    "genre": "Pop"
   },
   {
     "song": "Day 'N' Nite [Crookers Remix]",
@@ -3610,6 +3650,11 @@
     "genre": "Pop"
   },
   {
+    "song": "Barbie Dreams",
+    "artist": "Nicki Minaj",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
     "song": "Barbie Tingz",
     "artist": "Nicki Minaj",
     "genre": "Hip-Hop/Rap"
@@ -3678,6 +3723,11 @@
     "song": "Glowing",
     "artist": "Nikki Williams",
     "genre": "Dance-Pop"
+  },
+  {
+    "song": "Delete",
+    "artist": "Ninajirachi",
+    "genre": "Dance/Electronic"
   },
   {
     "song": "I Wanna Know",
@@ -3965,6 +4015,11 @@
     "genre": "Pop"
   },
   {
+    "song": "Why Is She Still Here?",
+    "artist": "Reneé Rapp",
+    "genre": "Pop"
+  },
+  {
     "song": "Not My Fault",
     "artist": "Reneé Rapp, Megan Thee Stallion",
     "genre": "Pop"
@@ -4032,6 +4087,11 @@
   {
     "song": "Nothing to Regret",
     "artist": "Robinson",
+    "genre": "Pop"
+  },
+  {
+    "song": "Ego",
+    "artist": "Romy Mars",
     "genre": "Pop"
   },
   {
@@ -4183,6 +4243,16 @@
     "song": "Older",
     "artist": "Sasha Sloan",
     "genre": "Alternative/Indie"
+  },
+  {
+    "song": "When the Summer Ends [Le P Remix]",
+    "artist": "Savoir Adore",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "boffum",
+    "artist": "Saweetie",
+    "genre": "Hip-Hop/Rap"
   },
   {
     "song": "Back To You [Vibratto Remix]",
@@ -5063,6 +5133,11 @@
     "song": "princess peach",
     "artist": "Young Miko",
     "genre": "Pop-Rap"
+  },
+  {
+    "song": "Iced Tea",
+    "artist": "Young Nudy ft. 21 Savage, Project Pat, Coupe",
+    "genre": "Hip-Hop/Rap"
   },
   {
     "song": "John Wayne",
