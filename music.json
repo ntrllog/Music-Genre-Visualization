@@ -1905,6 +1905,11 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "Forever",
+    "artist": "Gryffin, Elley Duhé",
+    "genre": "Dance/Electronic"
+  },
+  {
     "song": "Tie Me Down",
     "artist": "Gryffin, Elley Duhé",
     "genre": "Dance-Pop"
@@ -2122,6 +2127,11 @@
   {
     "song": "Don't Say",
     "artist": "Hoang ft. Nevve",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Kids Again",
+    "artist": "Hoang, With Løve ft. Trella",
     "genre": "Dance/Electronic"
   },
   {
@@ -3890,6 +3900,11 @@
     "genre": "Pop"
   },
   {
+    "song": "Here's To Hope",
+    "artist": "Orlost, UNDEFYND ft. RUNN",
+    "genre": "Dance/Electronic"
+  },
+  {
     "song": "Fireflies",
     "artist": "Owl City",
     "genre": "Pop"
@@ -4210,6 +4225,11 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "The Call",
+    "artist": "SABAI, if found ft. Linney",
+    "genre": "Dance/Electronic"
+  },
+  {
     "song": "Bed Chem",
     "artist": "Sabrina Carpenter",
     "genre": "Pop"
@@ -4253,6 +4273,11 @@
     "song": "Wildside",
     "artist": "Sabrina Carpenter, Sofia Carson",
     "genre": "Pop"
+  },
+  {
+    "song": "Reminisce",
+    "artist": "Said The Sky ft. Taylor Acorn",
+    "genre": "Dance/Electronic"
   },
   {
     "song": "Post Malone",
@@ -4560,6 +4585,11 @@
     "genre": "Pop"
   },
   {
+    "song": "Actually Romantic",
+    "artist": "Taylor Swift",
+    "genre": "Pop"
+  },
+  {
     "song": "Anti-Hero",
     "artist": "Taylor Swift",
     "genre": "Pop"
@@ -4580,6 +4610,11 @@
     "genre": "Pop"
   },
   {
+    "song": "CANCELLED!",
+    "artist": "Taylor Swift",
+    "genre": "Pop"
+  },
+  {
     "song": "Cornelia Street",
     "artist": "Taylor Swift",
     "genre": "Pop"
@@ -4591,6 +4626,11 @@
   },
   {
     "song": "Delicate",
+    "artist": "Taylor Swift",
+    "genre": "Pop"
+  },
+  {
+    "song": "Father Figure",
     "artist": "Taylor Swift",
     "genre": "Pop"
   },
@@ -4680,6 +4720,11 @@
     "genre": "Pop"
   },
   {
+    "song": "Opalite",
+    "artist": "Taylor Swift",
+    "genre": "Pop"
+  },
+  {
     "song": "Red (Taylor's Version)",
     "artist": "Taylor Swift",
     "genre": "Pop"
@@ -4701,6 +4746,11 @@
   },
   {
     "song": "Style (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "genre": "Pop"
+  },
+  {
+    "song": "The Fate of Ophelia",
     "artist": "Taylor Swift",
     "genre": "Pop"
   },
@@ -4730,7 +4780,17 @@
     "genre": "Pop"
   },
   {
+    "song": "Wi$h Li$t",
+    "artist": "Taylor Swift",
+    "genre": "Pop"
+  },
+  {
     "song": "Wildest Dreams (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "genre": "Pop"
+  },
+  {
+    "song": "Wood",
     "artist": "Taylor Swift",
     "genre": "Pop"
   },
@@ -4855,9 +4915,29 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "High",
+    "artist": "The Chainsmokers",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Honest",
+    "artist": "The Chainsmokers",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "No Shade at Pitti",
+    "artist": "The Chainsmokers",
+    "genre": "Dance/Electronic"
+  },
+  {
     "song": "Paris",
     "artist": "The Chainsmokers",
     "genre": "Dance-Pop"
+  },
+  {
+    "song": "Smooth",
+    "artist": "The Chainsmokers",
+    "genre": "Dance/Electronic"
   },
   {
     "song": "The One",
@@ -4867,7 +4947,7 @@
   {
     "song": "Young",
     "artist": "The Chainsmokers",
-    "genre": "Dance-Pop"
+    "genre": "Dance/Electronic"
   },
   {
     "song": "Who Do You Love",
