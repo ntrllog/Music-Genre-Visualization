@@ -125,6 +125,11 @@
     "genre": "Pop"
   },
   {
+    "song": "The Way a Heart Breaks",
+    "artist": "Alexander Stewart",
+    "genre": "Pop"
+  },
+  {
     "song": "Better",
     "artist": "Alice Phoebe Lou",
     "genre": "Alternative/Indie"
@@ -283,6 +288,11 @@
     "song": "Circles",
     "artist": "Audien ft. Ruby Prophet",
     "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Sue me",
+    "artist": "Audrey Hobert",
+    "genre": "Pop"
   },
   {
     "song": "Thirst Trap",
@@ -481,11 +491,6 @@
   },
   {
     "song": "One More Night",
-    "artist": "Bella Thorne",
-    "genre": "Pop"
-  },
-  {
-    "song": "TTYLXOX",
     "artist": "Bella Thorne",
     "genre": "Pop"
   },
@@ -985,6 +990,11 @@
     "genre": "Dance-Pop"
   },
   {
+    "song": "Leave A Trace",
+    "artist": "CHVRCHES",
+    "genre": "Pop"
+  },
+  {
     "song": "Miracle [Manila Killa Remix]",
     "artist": "CHVRCHES",
     "genre": "Dance-Pop"
@@ -1373,6 +1383,11 @@
     "song": "Drama Baby",
     "artist": "Eileen Alister",
     "genre": "Pop"
+  },
+  {
+    "song": "Golden",
+    "artist": "Ejae, Audrey Nuna, Rei Ami",
+    "genre": "K-Pop"
   },
   {
     "song": "Por Que Soy Asi",
@@ -2180,6 +2195,11 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "TEEN ANGST",
+    "artist": "INJI",
+    "genre": "Dance-Pop"
+  },
+  {
     "song": "Hope It Hurts",
     "artist": "Isabel LaRosa",
     "genre": "Pop"
@@ -2318,6 +2338,11 @@
     "song": "Please Don't Go",
     "artist": "Joel Adams",
     "genre": "Pop"
+  },
+  {
+    "song": "Head & Heart",
+    "artist": "Joel Corry, MNEK",
+    "genre": "Dance-Pop"
   },
   {
     "song": "When Love Hurts",
@@ -2975,6 +3000,11 @@
     "genre": "Pop"
   },
   {
+    "song": "How Bad Do U Want Me",
+    "artist": "Lady Gaga",
+    "genre": "Pop"
+  },
+  {
     "song": "Paparazzi",
     "artist": "Lady Gaga",
     "genre": "Pop"
@@ -3011,6 +3041,11 @@
   },
   {
     "song": "Good Girls",
+    "artist": "LANY",
+    "genre": "Pop"
+  },
+  {
+    "song": "Stuck",
     "artist": "LANY",
     "genre": "Pop"
   },
@@ -3450,6 +3485,11 @@
     "genre": "K-Pop"
   },
   {
+    "song": "no cell phones in rehab",
+    "artist": "mgk",
+    "genre": "Rock"
+  },
+  {
     "song": "beauty",
     "artist": "mgk, Trippie Redd",
     "genre": "Hip-Hop/Rap"
@@ -3620,6 +3660,11 @@
     "genre": "Alternative/Indie"
   },
   {
+    "song": "Feet On Land",
+    "artist": "Moneybagg Yo, G Herbo",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
     "song": "Yours Truly",
     "artist": "Mr FijiWiji ft. Danyka Nadeau",
     "genre": "Dance/Electronic"
@@ -3653,6 +3698,11 @@
     "song": "Let Me Love You (Until You Learn To Love Yourself) [Jason Chen Cover]",
     "artist": "Ne-Yo",
     "genre": "Dance-Pop"
+  },
+  {
+    "song": "Some Say [Felix Jaehn Remix]",
+    "artist": "Nea",
+    "genre": "Dance/Electronic"
   },
   {
     "song": "Sexual",
@@ -4073,6 +4123,11 @@
     "song": "Love Me Not",
     "artist": "Ravyn Lenae",
     "genre": "R&B"
+  },
+  {
+    "song": "Lucky",
+    "artist": "Reneé Rapp",
+    "genre": "Pop"
   },
   {
     "song": "Pretty Girls",
@@ -4610,6 +4665,11 @@
     "genre": "Pop"
   },
   {
+    "song": "Call It What You Want",
+    "artist": "Taylor Swift",
+    "genre": "Pop"
+  },
+  {
     "song": "CANCELLED!",
     "artist": "Taylor Swift",
     "genre": "Pop"
@@ -4845,6 +4905,11 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "Closer",
+    "artist": "Tegan and Sara",
+    "genre": "Pop"
+  },
+  {
     "song": "Come First",
     "artist": "Terror Jr",
     "genre": "Pop"
@@ -4936,6 +5001,11 @@
   },
   {
     "song": "Smooth",
+    "artist": "The Chainsmokers",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "The Cure",
     "artist": "The Chainsmokers",
     "genre": "Dance/Electronic"
   },
@@ -5173,6 +5243,11 @@
     "song": "Butterfly II",
     "artist": "UMI",
     "genre": "Alternative/Indie"
+  },
+  {
+    "song": "Do It",
+    "artist": "underscores",
+    "genre": "Dance/Electronic"
   },
   {
     "song": "Perfect 10 [Unknown Brain & RudeLies VIP Remix]",
