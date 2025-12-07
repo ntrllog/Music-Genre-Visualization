@@ -28,7 +28,7 @@ dir_list = os.listdir("C:/Users/alanl/Music")
 for item in dir_list:
     if '.mp3' not in item:
         continue
-
+    print(item)
     artist = item.split(' - ')[0]
     title = item.split(' - ')[1].split('.mp3')[0]
     if title in edge_cases:
