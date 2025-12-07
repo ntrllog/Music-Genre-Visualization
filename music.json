@@ -135,6 +135,11 @@
     "genre": "Alternative/Indie"
   },
   {
+    "song": "Heaven",
+    "artist": "Alison Wonderland, Ninajirachi",
+    "genre": "Dance/Electronic"
+  },
+  {
     "song": "can't slow down",
     "artist": "almost monday",
     "genre": "Alternative/Indie"
@@ -248,6 +253,11 @@
     "song": "Hurts So Good",
     "artist": "Astrid S",
     "genre": "Pop"
+  },
+  {
+    "song": "Choose",
+    "artist": "ATEEZ",
+    "genre": "K-Pop"
   },
   {
     "song": "Message",
@@ -438,6 +448,11 @@
     "song": "Too Pretty For Buffalo",
     "artist": "Baby Nova",
     "genre": "Alternative/Indie"
+  },
+  {
+    "song": "Si Veo a Tu Mamá",
+    "artist": "Bad Bunny",
+    "genre": "Pop"
   },
   {
     "song": "Never Say Never",
@@ -1160,6 +1175,11 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "Run It Back!!",
+    "artist": "De La Soul ft. Nas",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
     "song": "The Veldt",
     "artist": "deadmau5 ft. Chris James",
     "genre": "Dance/Electronic"
@@ -1181,6 +1201,11 @@
   },
   {
     "song": "Confident",
+    "artist": "Demi Lovato",
+    "genre": "Pop"
+  },
+  {
+    "song": "Joshua Tree",
     "artist": "Demi Lovato",
     "genre": "Pop"
   },
@@ -1735,7 +1760,27 @@
     "genre": "Rock"
   },
   {
+    "song": "Best Friend",
+    "artist": "Foster The People",
+    "genre": "Alternative/Indie"
+  },
+  {
+    "song": "Call It What You Want",
+    "artist": "Foster The People",
+    "genre": "Alternative/Indie"
+  },
+  {
     "song": "Don't Stop (Color on the Walls)",
+    "artist": "Foster The People",
+    "genre": "Alternative/Indie"
+  },
+  {
+    "song": "Helena Beat",
+    "artist": "Foster The People",
+    "genre": "Alternative/Indie"
+  },
+  {
+    "song": "I Would Do Anything For You",
     "artist": "Foster The People",
     "genre": "Alternative/Indie"
   },
@@ -1768,6 +1813,11 @@
     "song": "Capsize",
     "artist": "FRENSHIP, Emily Warren",
     "genre": "Dance-Pop"
+  },
+  {
+    "song": "silent treatment",
+    "artist": "Freya Skye",
+    "genre": "Pop"
   },
   {
     "song": "Like That",
@@ -1813,6 +1863,11 @@
     "song": "Lighter",
     "artist": "Galantis, David Guetta, 5 Seconds of Summer",
     "genre": "Dance-Pop"
+  },
+  {
+    "song": "Work",
+    "artist": "Gang Starr",
+    "genre": "Hip-Hop/Rap"
   },
   {
     "song": "Lost",
@@ -2118,6 +2173,11 @@
     "song": "Hand That Feeds",
     "artist": "Halsey, Amy Lee",
     "genre": "Rock"
+  },
+  {
+    "song": "Summer Air",
+    "artist": "Hardwell ft. Trevor Guthrie",
+    "genre": "Dance/Electronic"
   },
   {
     "song": "We Run The Night [RedOne Remix]",
@@ -2435,6 +2495,11 @@
     "genre": "Alternative/Indie"
   },
   {
+    "song": "GOOD STUFF",
+    "artist": "KARINA",
+    "genre": "K-Pop"
+  },
+  {
     "song": "CONTIGO",
     "artist": "Karol G, Tiësto",
     "genre": "Dance-Pop"
@@ -2638,6 +2703,11 @@
     "song": "m.A.A.d city",
     "artist": "Kendrick Lamar ft. MC Eiht",
     "genre": "Hip-Hop/Rap"
+  },
+  {
+    "song": "Butterscotch",
+    "artist": "Kesha",
+    "genre": "Pop"
   },
   {
     "song": "THE ONE.",
@@ -3685,6 +3755,11 @@
     "genre": "Hip-Hop/Rap"
   },
   {
+    "song": "Luke Combs",
+    "artist": "NASAAN ft. That Mexican OT",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
     "song": "Somebody",
     "artist": "Natalie La Rose ft. Jeremih",
     "genre": "R&B"
@@ -4028,6 +4103,11 @@
     "song": "Bad Kids",
     "artist": "Polo G, GloRilla",
     "genre": "Hip-Hop/Rap"
+  },
+  {
+    "song": "Guardian",
+    "artist": "Poppy",
+    "genre": "Rock"
   },
   {
     "song": "vital",
@@ -5148,6 +5228,11 @@
     "song": "Won't Be Possible",
     "artist": "Tiësto, Odd Mob, Goodboys",
     "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Lucky Strike!",
+    "artist": "Tiger La Flor",
+    "genre": "Pop"
   },
   {
     "song": "Once In a While",
