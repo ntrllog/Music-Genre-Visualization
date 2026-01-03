@@ -160,6 +160,11 @@
     "genre": "K-Pop"
   },
   {
+    "song": "Stop the Rock",
+    "artist": "Apollo 440",
+    "genre": "Dance-Rock"
+  },
+  {
     "song": "eternal sunshine",
     "artist": "Ariana Grande",
     "genre": "Pop"
@@ -236,6 +241,11 @@
   },
   {
     "song": "how could u love somebody like me",
+    "artist": "Artemas",
+    "genre": "Alternative/Indie"
+  },
+  {
+    "song": "time alone w you",
     "artist": "Artemas",
     "genre": "Alternative/Indie"
   },
@@ -2385,6 +2395,11 @@
     "genre": "Pop"
   },
   {
+    "song": "Aging Well",
+    "artist": "Jillian Rossi",
+    "genre": "Pop"
+  },
+  {
     "song": "Tornado Boy",
     "artist": "Jillian Rossi",
     "genre": "Pop"
@@ -3075,6 +3090,11 @@
     "genre": "Pop"
   },
   {
+    "song": "Marry The Night",
+    "artist": "Lady Gaga",
+    "genre": "Pop"
+  },
+  {
     "song": "Paparazzi",
     "artist": "Lady Gaga",
     "genre": "Pop"
@@ -3755,6 +3775,11 @@
     "genre": "Hip-Hop/Rap"
   },
   {
+    "song": "GiT Ready",
+    "artist": "Nas, DJ Premier",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
     "song": "Luke Combs",
     "artist": "NASAAN ft. That Mexican OT",
     "genre": "Hip-Hop/Rap"
@@ -4102,6 +4127,11 @@
   {
     "song": "Bad Kids",
     "artist": "Polo G, GloRilla",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
+    "song": "FDO",
+    "artist": "Pooh Shiesty",
     "genre": "Hip-Hop/Rap"
   },
   {
@@ -4660,6 +4690,36 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "Bite The Bullet",
+    "artist": "SUM SUN",
+    "genre": "Alternative/Indie"
+  },
+  {
+    "song": "Every Little Thing You Do",
+    "artist": "SUM SUN",
+    "genre": "Alternative/Indie"
+  },
+  {
+    "song": "I Think I Saw You In My Dreams",
+    "artist": "SUM SUN",
+    "genre": "Alternative/Indie"
+  },
+  {
+    "song": "Keeping Score",
+    "artist": "SUM SUN",
+    "genre": "Alternative/Indie"
+  },
+  {
+    "song": "Out Of Sight",
+    "artist": "SUM SUN",
+    "genre": "Alternative/Indie"
+  },
+  {
+    "song": "She's My Madonna",
+    "artist": "SUM SUN",
+    "genre": "Alternative/Indie"
+  },
+  {
     "song": "Save The World",
     "artist": "Swedish House Mafia",
     "genre": "Dance-Pop"
@@ -5168,6 +5228,11 @@
     "song": "How to Save a Life",
     "artist": "The Fray",
     "genre": "Pop-Rock"
+  },
+  {
+    "song": "The Fire",
+    "artist": "The Roots",
+    "genre": "Hip-Hop/Rap"
   },
   {
     "song": "What You Want",
