@@ -18,7 +18,9 @@ edge_cases = {
     "Is It Over Now (Taylor's Version)": "Is It Over Now? (Taylor's Version)",
     '1035': '10:35',
     'Alan Walker ft. AuRa, Tomine Harket': 'Alan Walker ft. Au/Ra, Tomine Harket',
-    'Why Is She Still Here': 'Why Is She Still Here?'
+    'Why Is She Still Here': 'Why Is She Still Here?',
+    "I'm Crying, Are You": "I'm Crying, Are You?",
+    "238": "2:38"
 }
 
 json_df = pd.read_json('music.json')

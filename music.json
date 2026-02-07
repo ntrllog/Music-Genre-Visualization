@@ -230,6 +230,11 @@
     "genre": "R&B"
   },
   {
+    "song": "2SIDED",
+    "artist": "Arlo Parks",
+    "genre": "Alternative/Indie"
+  },
+  {
     "song": "Alone",
     "artist": "Armin van Buuren ft. Lauren Evans",
     "genre": "Dance/Electronic"
@@ -318,6 +323,11 @@
     "song": "Thirst Trap",
     "artist": "Audrey Hobert",
     "genre": "Pop"
+  },
+  {
+    "song": "I'm Crying, Are You?",
+    "artist": "August Ponthier",
+    "genre": "Alternative/Indie"
   },
   {
     "song": "Cold As Ice",
@@ -515,6 +525,11 @@
     "genre": "Pop"
   },
   {
+    "song": "iloveitiloveitiloveit",
+    "artist": "Bella Kay",
+    "genre": "Pop"
+  },
+  {
     "song": "One More Night",
     "artist": "Bella Thorne",
     "genre": "Pop"
@@ -603,6 +618,11 @@
     "song": "Somebody New",
     "artist": "Blusher",
     "genre": "Dance-Pop"
+  },
+  {
+    "song": "Memory",
+    "artist": "BONNIE X CLYDE, SUM SUN",
+    "genre": "Dance/Electronic"
   },
   {
     "song": "Invincible",
@@ -1820,6 +1840,11 @@
     "genre": "Dance-Pop"
   },
   {
+    "song": "Ever Since U Left Me",
+    "artist": "French Montana, Max B",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
     "song": "Capsize",
     "artist": "FRENSHIP, Emily Warren",
     "genre": "Dance-Pop"
@@ -2220,6 +2245,11 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "To Love Somebody",
+    "artist": "Holly Humberstone",
+    "genre": "Pop"
+  },
+  {
     "song": "Atmosphere",
     "artist": "Husman ft. Kelly Sweet",
     "genre": "Dance/Electronic"
@@ -2288,6 +2318,11 @@
     "song": "Rebels",
     "artist": "Ivy Adara",
     "genre": "Pop"
+  },
+  {
+    "song": "Two Six",
+    "artist": "J. Cole",
+    "genre": "Hip-Hop/Rap"
   },
   {
     "song": "Dua Lipa",
@@ -3390,6 +3425,11 @@
     "genre": "Alternative/Indie"
   },
   {
+    "song": "My Regards",
+    "artist": "Maisie Peters",
+    "genre": "Pop"
+  },
+  {
     "song": "cut!",
     "artist": "Maren Morris, Julia Michaels",
     "genre": "Pop"
@@ -3407,6 +3447,11 @@
   {
     "song": "Primadonna",
     "artist": "Marina and the Diamonds",
+    "genre": "Pop"
+  },
+  {
+    "song": "Body Is On Fire",
+    "artist": "MARIS",
     "genre": "Pop"
   },
   {
@@ -3528,6 +3573,11 @@
     "song": "Am I Okay?",
     "artist": "Megan Moroney",
     "genre": "Country"
+  },
+  {
+    "song": "Wish I Didn't",
+    "artist": "Megan Moroney",
+    "genre": "Country-Pop"
   },
   {
     "song": "Electrified",
@@ -4630,6 +4680,11 @@
     "genre": "Pop"
   },
   {
+    "song": "DANCE...",
+    "artist": "Slayyyter",
+    "genre": "Dance/Electronic"
+  },
+  {
     "song": "All My Friends",
     "artist": "Snakehips ft. Tinashe, Chance the Rapper",
     "genre": "Pop"
@@ -4648,6 +4703,26 @@
     "song": "Paramedic!",
     "artist": "SOB X RBE ft. Kendrick Lamar",
     "genre": "Hip-Hop/Rap"
+  },
+  {
+    "song": "COOK",
+    "artist": "SOFI TUKKER, J Balvin",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "12 to 12",
+    "artist": "sombr",
+    "genre": "Alternative/Indie"
+  },
+  {
+    "song": "back to friends",
+    "artist": "sombr",
+    "genre": "Alternative/Indie"
+  },
+  {
+    "song": "undressed",
+    "artist": "sombr",
+    "genre": "Alternative/Indie"
   },
   {
     "song": "Paradise",
@@ -4690,9 +4765,29 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "2:38",
+    "artist": "SUM SUN",
+    "genre": "Alternative/Indie"
+  },
+  {
     "song": "Bite The Bullet",
     "artist": "SUM SUN",
     "genre": "Alternative/Indie"
+  },
+  {
+    "song": "Cherry Cola",
+    "artist": "SUM SUN",
+    "genre": "Pop"
+  },
+  {
+    "song": "Company",
+    "artist": "SUM SUN",
+    "genre": "Alternative/Indie"
+  },
+  {
+    "song": "Dancing To The Headlights",
+    "artist": "SUM SUN",
+    "genre": "Pop"
   },
   {
     "song": "Every Little Thing You Do",
@@ -4700,12 +4795,42 @@
     "genre": "Alternative/Indie"
   },
   {
+    "song": "Golden Days",
+    "artist": "SUM SUN",
+    "genre": "Pop"
+  },
+  {
     "song": "I Think I Saw You In My Dreams",
     "artist": "SUM SUN",
     "genre": "Alternative/Indie"
   },
   {
+    "song": "Invincible",
+    "artist": "SUM SUN",
+    "genre": "Alternative/Indie"
+  },
+  {
     "song": "Keeping Score",
+    "artist": "SUM SUN",
+    "genre": "Alternative/Indie"
+  },
+  {
+    "song": "Kickin'",
+    "artist": "SUM SUN",
+    "genre": "Alternative/Indie"
+  },
+  {
+    "song": "Kids Again",
+    "artist": "SUM SUN",
+    "genre": "Alternative/Indie"
+  },
+  {
+    "song": "Lose My Mind",
+    "artist": "SUM SUN",
+    "genre": "Alternative/Indie"
+  },
+  {
+    "song": "My Favorite Color Is You",
     "artist": "SUM SUN",
     "genre": "Alternative/Indie"
   },
@@ -4718,6 +4843,36 @@
     "song": "She's My Madonna",
     "artist": "SUM SUN",
     "genre": "Alternative/Indie"
+  },
+  {
+    "song": "SWEAT",
+    "artist": "SUM SUN",
+    "genre": "Alternative/Indie"
+  },
+  {
+    "song": "U-Phoria",
+    "artist": "SUM SUN",
+    "genre": "Pop"
+  },
+  {
+    "song": "Wishbone",
+    "artist": "SUM SUN",
+    "genre": "Dance-Pop"
+  },
+  {
+    "song": "Sunshine State Of Mind",
+    "artist": "SUM SUN ft. Shwayze, sammy rash",
+    "genre": "Alternative/Indie"
+  },
+  {
+    "song": "Blame It On The Rain",
+    "artist": "SUM SUN, Laur Elle",
+    "genre": "Alternative/Indie"
+  },
+  {
+    "song": "Stereo",
+    "artist": "SUM SUN, Sly Chance",
+    "genre": "Dance-Pop"
   },
   {
     "song": "Save The World",
@@ -5453,6 +5608,11 @@
     "song": "Somebody Else [The 1975 Cover]",
     "artist": "VÉRITÉ",
     "genre": "Alternative/Indie"
+  },
+  {
+    "song": "James Freestyle",
+    "artist": "Wale, Don Cannon",
+    "genre": "Hip-Hop/Rap"
   },
   {
     "song": "Scream & Shout",
