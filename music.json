@@ -102,7 +102,7 @@
   {
     "song": "I already dug your grave",
     "artist": "Alemeda",
-    "genre": "Pop",
+    "genre": "Pop"
   },
   {
     "song": "Cool",
@@ -138,6 +138,11 @@
     "song": "Heaven",
     "artist": "Alison Wonderland, Ninajirachi",
     "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Blame it on You",
+    "artist": "Ally Evenson",
+    "genre": "Alternative/Indie"
   },
   {
     "song": "can't slow down",
@@ -258,6 +263,11 @@
     "song": "Save Me Tonight",
     "artist": "ARTY",
     "genre": "Dance/Electronic"
+  },
+  {
+    "song": "winters gonna come",
+    "artist": "Asal",
+    "genre": "Alternative/Indie"
   },
   {
     "song": "On A Roll",
@@ -990,6 +1000,11 @@
     "genre": "Alternative/Indie"
   },
   {
+    "song": "YDH",
+    "artist": "Chloe Qisha",
+    "genre": "Pop"
+  },
+  {
     "song": "Fig Tree",
     "artist": "Chloe Slater",
     "genre": "Alternative/Indie"
@@ -1252,6 +1267,11 @@
   {
     "song": "BLACK FLAG FREESTYLE",
     "artist": "Denzel Curry ft. That Mexican OT",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
+    "song": "THE SCYTHE",
+    "artist": "Denzel Curry, A$AP Ferg, TiaCorine",
     "genre": "Hip-Hop/Rap"
   },
   {
@@ -1790,6 +1810,11 @@
     "genre": "Rock"
   },
   {
+    "song": "Remember The Name",
+    "artist": "Fort Minor",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
     "song": "Best Friend",
     "artist": "Foster The People",
     "genre": "Alternative/Indie"
@@ -2225,6 +2250,11 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "Weather For Tennis",
+    "artist": "Hilary Duff",
+    "genre": "Pop"
+  },
+  {
     "song": "Letter to My Mentors",
     "artist": "Hit-Boy",
     "genre": "Hip-Hop/Rap"
@@ -2370,6 +2400,11 @@
     "genre": "R&B"
   },
   {
+    "song": "DEAD PRESIDENTS",
+    "artist": "JAY-Z",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
     "song": "Empire State Of Mind",
     "artist": "JAY-Z ft. Alicia Keys",
     "genre": "Hip-Hop/Rap"
@@ -2453,6 +2488,11 @@
     "song": "Head & Heart",
     "artist": "Joel Corry, MNEK",
     "genre": "Dance-Pop"
+  },
+  {
+    "song": "push the pipe",
+    "artist": "Joey Valence, Brae",
+    "genre": "Hip-Hop/Rap"
   },
   {
     "song": "When Love Hurts",
@@ -3017,6 +3057,11 @@
   {
     "song": "Louder",
     "artist": "Kygo, Julia Michaels, Chance Peña",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Save My Love",
+    "artist": "Kygo, Khalid, Gryffin",
     "genre": "Dance/Electronic"
   },
   {
@@ -3640,6 +3685,11 @@
     "genre": "Alternative/Indie"
   },
   {
+    "song": "Heels broke = died",
+    "artist": "MGNA Crrrta",
+    "genre": "Dance/Electronic"
+  },
+  {
     "song": "Oh Lord",
     "artist": "MiC LOWRY",
     "genre": "Dance/Electronic"
@@ -3843,6 +3893,11 @@
     "song": "La La La",
     "artist": "Naughty Boy ft. Sam Smith",
     "genre": "Pop"
+  },
+  {
+    "song": "Trimski",
+    "artist": "NAV, Young Thug",
+    "genre": "Hip-Hop/Rap"
   },
   {
     "song": "Let Me Love You (Until You Learn To Love Yourself) [Jason Chen Cover]",
@@ -4685,6 +4740,11 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "OLD TECHNOLOGY",
+    "artist": "Slayyyter",
+    "genre": "Dance/Electronic"
+  },
+  {
     "song": "All My Friends",
     "artist": "Snakehips ft. Tinashe, Chance the Rapper",
     "genre": "Pop"
@@ -4733,6 +4793,11 @@
     "song": "Girls Will Be Girls",
     "artist": "Sophie Beem",
     "genre": "Pop"
+  },
+  {
+    "song": "Just Like That",
+    "artist": "SOSA",
+    "genre": "Dance/Electronic"
   },
   {
     "song": "Call on Me [Ryan Riback Remix]",
@@ -5385,6 +5450,11 @@
     "genre": "Pop-Rock"
   },
   {
+    "song": "Good Grief",
+    "artist": "The Neighbourhood",
+    "genre": "Alternative/Indie"
+  },
+  {
     "song": "The Fire",
     "artist": "The Roots",
     "genre": "Hip-Hop/Rap"
@@ -5633,6 +5703,11 @@
     "song": "T.H.E (The Hardest Ever)",
     "artist": "will.i.am ft. Mick Jagger, Jennifer Lopez",
     "genre": "Dance-Rock"
+  },
+  {
+    "song": "Deep End",
+    "artist": "William Black",
+    "genre": "Dance/Electronic"
   },
   {
     "song": "See You Again",
