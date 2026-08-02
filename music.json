@@ -60,6 +60,11 @@
     "genre": "Pop"
   },
   {
+    "song": "LEMONADE",
+    "artist": "aespa ft. Becky G",
+    "genre": "K-Pop"
+  },
+  {
     "song": "Take Over Control",
     "artist": "AFROJACK ft. Eva Simons",
     "genre": "Dance/Electronic"
@@ -68,6 +73,16 @@
     "song": "Our Time",
     "artist": "AFROJACK, Martin Garrix, David Guetta, Amél",
     "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Awake Tonight",
+    "artist": "AFROJACK, Sia, David Guetta",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Promise (When You Go)",
+    "artist": "After",
+    "genre": "Alternative/Indie"
   },
   {
     "song": "Evening Sky",
@@ -100,6 +115,11 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "FATE",
+    "artist": "Alan Walker, Ava Max",
+    "genre": "Dance/Electronic"
+  },
+  {
     "song": "I already dug your grave",
     "artist": "Alemeda",
     "genre": "Pop"
@@ -123,6 +143,11 @@
     "song": "Face Like Yours",
     "artist": "Alex Porat",
     "genre": "Pop"
+  },
+  {
+    "song": "FINE PLACE TO DIE",
+    "artist": "Alex Warren",
+    "genre": "Alternative/Indie"
   },
   {
     "song": "The Way a Heart Breaks",
@@ -171,6 +196,11 @@
   },
   {
     "song": "eternal sunshine",
+    "artist": "Ariana Grande",
+    "genre": "Pop"
+  },
+  {
+    "song": "hate that i made you love me",
     "artist": "Ariana Grande",
     "genre": "Pop"
   },
@@ -267,6 +297,11 @@
   {
     "song": "winters gonna come",
     "artist": "Asal",
+    "genre": "Alternative/Indie"
+  },
+  {
+    "song": "Biggest Fan",
+    "artist": "Asha Banks",
     "genre": "Alternative/Indie"
   },
   {
@@ -480,6 +515,11 @@
     "genre": "Pop-Rap"
   },
   {
+    "song": "Calling Out For U",
+    "artist": "Baauer",
+    "genre": "Dance/Electronic"
+  },
+  {
     "song": "Too Pretty For Buffalo",
     "artist": "Baby Nova",
     "genre": "Alternative/Indie"
@@ -493,6 +533,11 @@
     "song": "Never Say Never",
     "artist": "Basement Jaxx ft. ETML",
     "genre": "Dance/Electronic"
+  },
+  {
+    "song": "born to lose",
+    "artist": "Bea Miller",
+    "genre": "Pop"
   },
   {
     "song": "Clueless",
@@ -528,6 +573,16 @@
     "song": "F.F.F.",
     "artist": "Bebe Rexha ft. G-Eazy",
     "genre": "Pop"
+  },
+  {
+    "song": "Sad Girls",
+    "artist": "Bebe Rexha, David Guetta",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "New Religion",
+    "artist": "Bebe Rexha, Faithless",
+    "genre": "Dance/Electronic"
   },
   {
     "song": "I Like That",
@@ -885,6 +940,11 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "I Found You",
+    "artist": "Cash Cash, Andy Grammer",
+    "genre": "Dance/Electronic"
+  },
+  {
     "song": "Fuck You!",
     "artist": "CeeLo Green",
     "genre": "Pop"
@@ -925,9 +985,19 @@
     "genre": "Dance-Pop"
   },
   {
+    "song": "SS26",
+    "artist": "Charli XCX",
+    "genre": "Pop"
+  },
+  {
     "song": "Von dutch",
     "artist": "Charli XCX",
     "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Wink Wink",
+    "artist": "Charli xcx",
+    "genre": "Pop"
   },
   {
     "song": "Guess",
@@ -1230,6 +1300,11 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "Human",
+    "artist": "David Guetta, Third Party ft. John Martin",
+    "genre": "Dance/Electronic"
+  },
+  {
     "song": "Run It Back!!",
     "artist": "De La Soul ft. Nas",
     "genre": "Hip-Hop/Rap"
@@ -1273,6 +1348,11 @@
     "song": "Sorry Not Sorry",
     "artist": "Demi Lovato",
     "genre": "Pop"
+  },
+  {
+    "song": "Fantasy",
+    "artist": "Demi Lovato ft. COBRAH",
+    "genre": "Dance-Pop"
   },
   {
     "song": "BLACK FLAG FREESTYLE",
@@ -1490,6 +1570,11 @@
     "genre": "Pop"
   },
   {
+    "song": "Bottom Of Your Boots",
+    "artist": "Ella Langley",
+    "genre": "Country"
+  },
+  {
     "song": "Want It All",
     "artist": "Elle Winter",
     "genre": "Pop"
@@ -1690,6 +1775,11 @@
     "genre": "Pop"
   },
   {
+    "song": "RockWave",
+    "artist": "EsDeeKid",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
     "song": "All Mine",
     "artist": "f(x)",
     "genre": "K-Pop"
@@ -1885,6 +1975,11 @@
     "genre": "Hip-Hop/Rap"
   },
   {
+    "song": "Smoking pt. 2",
+    "artist": "French Montana, Max B, Rick Ross",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
     "song": "Capsize",
     "artist": "FRENSHIP, Emily Warren",
     "genre": "Dance-Pop"
@@ -2000,6 +2095,11 @@
     "genre": "Hip-Hop/Rap"
   },
   {
+    "song": "MANE",
+    "artist": "GloRilla, Pooh Shiesty",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
     "song": "Over",
     "artist": "GOLDHOUSE",
     "genre": "Dance/Electronic"
@@ -2016,6 +2116,11 @@
   },
   {
     "song": "Close To You",
+    "artist": "Gracie Abrams",
+    "genre": "Pop"
+  },
+  {
+    "song": "Hit the Wall",
     "artist": "Gracie Abrams",
     "genre": "Pop"
   },
@@ -2125,6 +2230,16 @@
     "genre": "Alternative/Indie"
   },
   {
+    "song": "Carry the Weight",
+    "artist": "Halsey",
+    "genre": "Alternative/Indie"
+  },
+  {
+    "song": "Charades",
+    "artist": "Halsey",
+    "genre": "Alternative/Indie"
+  },
+  {
     "song": "Colors",
     "artist": "Halsey",
     "genre": "Pop"
@@ -2185,9 +2300,19 @@
     "genre": "Pop-Rock"
   },
   {
+    "song": "Lucid",
+    "artist": "Halsey",
+    "genre": "Alternative/Indie"
+  },
+  {
     "song": "Lucky",
     "artist": "Halsey",
     "genre": "Pop"
+  },
+  {
+    "song": "Nothing!",
+    "artist": "Halsey",
+    "genre": "Alternative/Indie"
   },
   {
     "song": "Now Or Never [R3hab Remix]",
@@ -2290,6 +2415,11 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "Beauty Pageant",
+    "artist": "Holly Humberstone",
+    "genre": "Alternative/Indie"
+  },
+  {
     "song": "To Love Somebody",
     "artist": "Holly Humberstone",
     "genre": "Pop"
@@ -2340,6 +2470,11 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "All The Best",
+    "artist": "Ingrid Andress",
+    "genre": "Alternative/Indie"
+  },
+  {
     "song": "TEEN ANGST",
     "artist": "INJI",
     "genre": "Dance-Pop"
@@ -2355,6 +2490,11 @@
     "genre": "Dance-Pop"
   },
   {
+    "song": "SAME SH!T",
+    "artist": "Isaiah Rashad",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
     "song": "Famous",
     "artist": "Ivy Adara",
     "genre": "Pop"
@@ -2363,6 +2503,11 @@
     "song": "Rebels",
     "artist": "Ivy Adara",
     "genre": "Pop"
+  },
+  {
+    "song": "99 Build Freestyle",
+    "artist": "J. Cole",
+    "genre": "Hip-Hop/Rap"
   },
   {
     "song": "Two Six",
@@ -2420,6 +2565,11 @@
     "genre": "Hip-Hop/Rap"
   },
   {
+    "song": "In My Lifetime",
+    "artist": "JAY-Z",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
     "song": "Empire State Of Mind",
     "artist": "JAY-Z ft. Alicia Keys",
     "genre": "Hip-Hop/Rap"
@@ -2438,6 +2588,11 @@
     "song": "Mantra",
     "artist": "JENNIE",
     "genre": "K-Pop"
+  },
+  {
+    "song": "Just Like You",
+    "artist": "Jensen McRae",
+    "genre": "Alternative/Indie"
   },
   {
     "song": "All I Am",
@@ -2538,6 +2693,11 @@
     "song": "Tantrum",
     "artist": "Jonas Brothers",
     "genre": "Pop"
+  },
+  {
+    "song": "Reconsider",
+    "artist": "Joyner Lucas",
+    "genre": "Hip-Hop/Rap"
   },
   {
     "song": "September Song",
@@ -2825,6 +2985,11 @@
     "genre": "Pop"
   },
   {
+    "song": "No Sweat",
+    "artist": "Key Glock",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
     "song": "Day 'N' Nite [Crookers Remix]",
     "artist": "Kid Cudi",
     "genre": "Dance/Electronic"
@@ -2841,6 +3006,11 @@
   },
   {
     "song": "I Don't Want It At All",
+    "artist": "Kim Petras",
+    "genre": "Pop"
+  },
+  {
+    "song": "King Of Hearts",
     "artist": "Kim Petras",
     "genre": "Pop"
   },
@@ -3035,9 +3205,19 @@
     "genre": "Dance-Pop"
   },
   {
+    "song": "That's When You Know",
+    "artist": "Kygo, Carter Faith",
+    "genre": "Dance/Electronic"
+  },
+  {
     "song": "Not Ok",
     "artist": "Kygo, Chelsea Cutler",
     "genre": "Dance-Pop"
+  },
+  {
+    "song": "Heaven On Your Mind",
+    "artist": "Kygo, Dan Tyminski",
+    "genre": "Dance/Electronic"
   },
   {
     "song": "First Time",
@@ -3082,6 +3262,11 @@
   {
     "song": "Save My Love",
     "artist": "Kygo, Khalid, Gryffin",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Take Me Back",
+    "artist": "Kygo, Max McNown",
     "genre": "Dance/Electronic"
   },
   {
@@ -3260,6 +3445,16 @@
     "genre": "Hip-Hop/Rap"
   },
   {
+    "song": "Hostage",
+    "artist": "Latto ft. 21 Savage",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
+    "song": "GOMF",
+    "artist": "Latto ft. GloRilla",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
     "song": "Lottery",
     "artist": "Latto ft. LU KALA",
     "genre": "Pop-Rap"
@@ -3272,6 +3467,11 @@
   {
     "song": "Chasing Fire",
     "artist": "Lauv",
+    "genre": "Pop"
+  },
+  {
+    "song": "Don't You Know",
+    "artist": "LAUV",
     "genre": "Pop"
   },
   {
@@ -3346,6 +3546,16 @@
   },
   {
     "song": "44ever",
+    "artist": "Logic",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
+    "song": "A Man Free",
+    "artist": "Logic",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
+    "song": "Catch Me If You Can",
     "artist": "Logic",
     "genre": "Hip-Hop/Rap"
   },
@@ -3455,6 +3665,11 @@
     "genre": "Hip-Hop/Rap"
   },
   {
+    "song": "Sick Of Love",
+    "artist": "Lykke Li",
+    "genre": "Alternative/Indie"
+  },
+  {
     "song": "First Time",
     "artist": "M-22 ft. Medina",
     "genre": "Dance/Electronic"
@@ -3510,6 +3725,16 @@
     "genre": "Pop"
   },
   {
+    "song": "Questions",
+    "artist": "Maisie Peters",
+    "genre": "Alternative/Indie"
+  },
+  {
+    "song": "I Saw Your Face",
+    "artist": "Malcolm Todd",
+    "genre": "Alternative/Indie"
+  },
+  {
     "song": "cut!",
     "artist": "Maren Morris, Julia Michaels",
     "genre": "Pop"
@@ -3538,6 +3763,11 @@
     "song": "Better Man",
     "artist": "Mark Batson ft. Blake Yung",
     "genre": "Hip-Hop/Rap"
+  },
+  {
+    "song": "Heroine",
+    "artist": "Maroon 5",
+    "genre": "Pop"
   },
   {
     "song": "Sugar",
@@ -3590,6 +3820,11 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "Another Drink",
+    "artist": "Marshmello, Kelsea Ballerini",
+    "genre": "Dance-Country"
+  },
+  {
     "song": "Higher Ground",
     "artist": "Martin Garrix ft. John Martin",
     "genre": "Dance/Electronic"
@@ -3602,6 +3837,11 @@
   {
     "song": "Scared to Be Lonely",
     "artist": "Martin Garrix, Dua Lipa",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Repeat It",
+    "artist": "Martin Garrix, Ed Sheeran",
     "genre": "Dance/Electronic"
   },
   {
@@ -3715,9 +3955,19 @@
     "genre": "Rock"
   },
   {
+    "song": "FIX UR FACE",
+    "artist": "mgk ft. Fred Durst",
+    "genre": "Rock"
+  },
+  {
     "song": "beauty",
     "artist": "mgk, Trippie Redd",
     "genre": "Hip-Hop/Rap"
+  },
+  {
+    "song": "girl next door",
+    "artist": "mgk, Wiz Khalifa",
+    "genre": "Pop"
   },
   {
     "song": "Kids",
@@ -3900,6 +4150,16 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "Eastside Girls",
+    "artist": "MUNA",
+    "genre": "Pop"
+  },
+  {
+    "song": "Hush",
+    "artist": "Muse ft. Ellie Goulding",
+    "genre": "Rock"
+  },
+  {
     "song": "passenger side",
     "artist": "mxmtoon",
     "genre": "Alternative/Indie"
@@ -4077,6 +4337,11 @@
   {
     "song": "Delete",
     "artist": "Ninajirachi",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "WannaCry",
+    "artist": "Ninajirachi, Porter Robinson",
     "genre": "Dance/Electronic"
   },
   {
@@ -4270,6 +4535,11 @@
     "genre": "Dance-Pop"
   },
   {
+    "song": "Como La Flor",
+    "artist": "Play N Skillz, Natti Natasha, Deorro",
+    "genre": "Dance/Electronic"
+  },
+  {
     "song": "Changa [Blanke Remix]",
     "artist": "PNAU",
     "genre": "Dance/Electronic"
@@ -4301,6 +4571,11 @@
   },
   {
     "song": "Fresh Static Snow",
+    "artist": "Porter Robinson",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Language",
     "artist": "Porter Robinson",
     "genre": "Dance/Electronic"
   },
@@ -4355,6 +4630,16 @@
     "genre": "Pop"
   },
   {
+    "song": "Hypnotized",
+    "artist": "Purple Disco Machine, Sophie and the Giants",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "HAAVIN",
+    "artist": "Quavo",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
     "song": "Georgia Ways",
     "artist": "Quavo, Luke Bryan, Teddy Swims",
     "genre": "Country"
@@ -4368,6 +4653,11 @@
     "song": "Powerglide",
     "artist": "Rae Sremmurd ft. Juicy J",
     "genre": "Hip-Hop/Rap"
+  },
+  {
+    "song": "Todo de Ti",
+    "artist": "Rauw Alejandro",
+    "genre": "Dance/Electronic"
   },
   {
     "song": "Pasaporte",
@@ -4408,6 +4698,21 @@
     "song": "Not My Fault",
     "artist": "Reneé Rapp, Megan Thee Stallion",
     "genre": "Pop"
+  },
+  {
+    "song": "CTRL + ALT + DEL",
+    "artist": "Rêve",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Living Large",
+    "artist": "Rick Ross ft. BigXthaPlug",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
+    "song": "Mahogany Caskets",
+    "artist": "Rick Ross ft. T.I.",
+    "genre": "Hip-Hop/Rap"
   },
   {
     "song": "Disturbia",
@@ -4655,6 +4960,11 @@
     "genre": "Hip-Hop/Rap"
   },
   {
+    "song": "Calling (Lose My Mind) [Radio Edit]",
+    "artist": "Sebastian Ingrosso, Alesso ft. Ryan Tedder",
+    "genre": "Dance/Electronic"
+  },
+  {
     "song": "Back To You [Vibratto Remix]",
     "artist": "Selena Gomez",
     "genre": "Dance/Electronic"
@@ -4780,6 +5090,11 @@
     "genre": "Pop"
   },
   {
+    "song": "brand new chanel$",
+    "artist": "Slayyyter",
+    "genre": "Dance/Electronic"
+  },
+  {
     "song": "BRITTANY MURPHY.",
     "artist": "Slayyyter",
     "genre": "Dance/Electronic"
@@ -4835,6 +5150,11 @@
     "genre": "Alternative/Indie"
   },
   {
+    "song": "Homewrecker",
+    "artist": "sombr",
+    "genre": "Alternative/Indie"
+  },
+  {
     "song": "undressed",
     "artist": "sombr",
     "genre": "Alternative/Indie"
@@ -4872,6 +5192,11 @@
   {
     "song": "Radio",
     "artist": "Steve Aoki ft. Trippie Redd, Jessica Baio, KABU",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Hungry Heart",
+    "artist": "Steve Aoki, Galantis ft. Hayley Kiyoko",
     "genre": "Dance/Electronic"
   },
   {
@@ -5002,6 +5327,11 @@
   {
     "song": "Higher",
     "artist": "Taio Cruz ft. Kylie Minogue",
+    "genre": "Pop"
+  },
+  {
+    "song": "Dracula [JENNIE Remix]",
+    "artist": "Tame Impala, JENNIE",
     "genre": "Pop"
   },
   {
@@ -5345,6 +5675,11 @@
     "genre": "Pop"
   },
   {
+    "song": "Do What You Gotta Do",
+    "artist": "The Band CAMINO",
+    "genre": "Alternative/Indie"
+  },
+  {
     "song": "Boom Boom Pow",
     "artist": "The Black Eyed Peas",
     "genre": "Dance-Pop"
@@ -5478,6 +5813,11 @@
     "song": "This Feeling",
     "artist": "The Chainsmokers ft. Kelsea Ballerini",
     "genre": "Dance-Pop"
+  },
+  {
+    "song": "Echo",
+    "artist": "The Chainsmokers ft. Oaks",
+    "genre": "Dance/Electronic"
   },
   {
     "song": "All We Know",
@@ -5615,6 +5955,11 @@
     "genre": "Dance-Pop"
   },
   {
+    "song": "DNH",
+    "artist": "Tove Lo",
+    "genre": "Dance/Electronic"
+  },
+  {
     "song": "Habits (Stay High)",
     "artist": "Tove Lo",
     "genre": "Pop"
@@ -5745,14 +6090,19 @@
     "genre": "Hip-Hop/Rap"
   },
   {
+    "song": "Bleeding Gold",
+    "artist": "Wasia Project",
+    "genre": "Alternative/Indie"
+  },
+  {
+    "song": "The Ceiling",
+    "artist": "Westend, Olivia Sebastianelli",
+    "genre": "Dance/Electronic"
+  },
+  {
     "song": "Scream & Shout",
     "artist": "will.i.am ft. Britney Spears",
     "genre": "Dance-Pop"
-  },
-  {
-    "song": "Let's Go",
-    "artist": "will.i.am ft. Chris Brown",
-    "genre": "Dance-Rap"
   },
   {
     "song": "#thatPOWER",
