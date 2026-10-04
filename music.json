@@ -175,6 +175,11 @@
     "genre": "Alternative/Indie"
   },
   {
+    "song": "french kids",
+    "artist": "almost monday",
+    "genre": "Alternative/Indie"
+  },
+  {
     "song": "Will You Love Me When I'm Dead",
     "artist": "Amira Elfeky",
     "genre": "Rock"
@@ -183,6 +188,11 @@
     "song": "Rise Up",
     "artist": "Andra Day",
     "genre": "R&B"
+  },
+  {
+    "song": "Love Triangle",
+    "artist": "Angèle, Caroline Polacheck, SebastiAn",
+    "genre": "Alternative/Indie"
   },
   {
     "song": "Catch me",
@@ -890,6 +900,11 @@
     "genre": "Dance-Pop"
   },
   {
+    "song": "Versailles",
+    "artist": "Carly Rae Jepsen",
+    "genre": "Pop"
+  },
+  {
     "song": "Your Type",
     "artist": "Carly Rae Jepsen",
     "genre": "Pop"
@@ -1050,6 +1065,11 @@
     "genre": "Dance-Pop"
   },
   {
+    "song": "IS THIS THE END?",
+    "artist": "Chelsea Cutler",
+    "genre": "Alternative/Indie"
+  },
+  {
     "song": "Your Shirt",
     "artist": "Chelsea Cutler",
     "genre": "Pop"
@@ -1076,6 +1096,11 @@
   },
   {
     "song": "I Lied, I'm Sorry",
+    "artist": "Chloe Qisha",
+    "genre": "Alternative/Indie"
+  },
+  {
+    "song": "Question Of The Day",
     "artist": "Chloe Qisha",
     "genre": "Alternative/Indie"
   },
@@ -1472,6 +1497,11 @@
   {
     "song": "Forever",
     "artist": "Dom Dolla, Kid Cudi",
+    "genre": "Dance/Electronic"
+  },
+  {
+    "song": "DANGER DANGER",
+    "artist": "Dom Dolla, Solomun, Skepta",
     "genre": "Dance/Electronic"
   },
   {
@@ -3830,6 +3860,11 @@
     "genre": "Dance-Country"
   },
   {
+    "song": "This Dream of You",
+    "artist": "Martin Garrix",
+    "genre": "Dance/Electronic"
+  },
+  {
     "song": "Higher Ground",
     "artist": "Martin Garrix ft. John Martin",
     "genre": "Dance/Electronic"
@@ -4510,6 +4545,11 @@
     "genre": "Hip-Hop/Rap"
   },
   {
+    "song": "PANDORA'S BOX",
+    "artist": "PEGGY",
+    "genre": "Alternative/Indie"
+  },
+  {
     "song": "Daft Punk",
     "artist": "Pentatonix",
     "genre": "Pop"
@@ -4690,6 +4730,11 @@
     "genre": "R&B"
   },
   {
+    "song": "2LOUD",
+    "artist": "REI AMI",
+    "genre": "Pop"
+  },
+  {
     "song": "Lucky",
     "artist": "Reneé Rapp",
     "genre": "Pop"
@@ -4770,6 +4815,11 @@
     "genre": "Dance/Electronic"
   },
   {
+    "song": "E.T.",
+    "artist": "Ro$ama",
+    "genre": "Hip-Hop/Rap"
+  },
+  {
     "song": "On Dat Money",
     "artist": "Rob49, Cardi B",
     "genre": "Hip-Hop/Rap"
@@ -4797,6 +4847,11 @@
   {
     "song": "Ego",
     "artist": "Romy Mars",
+    "genre": "Pop"
+  },
+  {
+    "song": "new trick",
+    "artist": "ROSÉ",
     "genre": "Pop"
   },
   {
@@ -5170,6 +5225,11 @@
     "genre": "Alternative/Indie"
   },
   {
+    "song": "My Body Isn't Ready",
+    "artist": "sombr",
+    "genre": "Alternative/Indie"
+  },
+  {
     "song": "undressed",
     "artist": "sombr",
     "genre": "Alternative/Indie"
@@ -5188,6 +5248,11 @@
     "song": "Just Like That",
     "artist": "SOSA",
     "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Man Ain't Me",
+    "artist": "Soulidified",
+    "genre": "R&B"
   },
   {
     "song": "Call on Me [Ryan Riback Remix]",
@@ -5223,6 +5288,11 @@
     "song": "Just Hold On [Attom Remix]",
     "artist": "Steve Aoki, Louis Tomlinson",
     "genre": "Dance/Electronic"
+  },
+  {
+    "song": "Take It Off For You",
+    "artist": "Stevie Bill",
+    "genre": "Alternative/Indie"
   },
   {
     "song": "2:38",
@@ -5541,6 +5611,11 @@
   },
   {
     "song": "Opalite",
+    "artist": "Taylor Swift",
+    "genre": "Pop"
+  },
+  {
+    "song": "Patient Zero",
     "artist": "Taylor Swift",
     "genre": "Pop"
   },
@@ -5945,6 +6020,11 @@
     "genre": "R&B"
   },
   {
+    "song": "Nobody Wanna Dance Anymore",
+    "artist": "Tinashe",
+    "genre": "Alternative/Indie"
+  },
+  {
     "song": "Player",
     "artist": "Tinashe",
     "genre": "Pop"
@@ -5988,6 +6068,11 @@
     "song": "Drive By",
     "artist": "Train",
     "genre": "Pop"
+  },
+  {
+    "song": "RHYNO",
+    "artist": "Travis Scott",
+    "genre": "Hip-Hop/Rap"
   },
   {
     "song": "Now Or Never",
@@ -6188,6 +6273,11 @@
     "song": "Out Of My System",
     "artist": "Youngr",
     "genre": "Dance-Pop"
+  },
+  {
+    "song": "F You",
+    "artist": "Yung Miami",
+    "genre": "Hip-Hop/Rap"
   },
   {
     "song": "Always You",

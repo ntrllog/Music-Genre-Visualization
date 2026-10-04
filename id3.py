@@ -20,7 +20,8 @@ edge_cases = {
     'Alan Walker ft. AuRa, Tomine Harket': 'Alan Walker ft. Au/Ra, Tomine Harket',
     'Why Is She Still Here': 'Why Is She Still Here?',
     "I'm Crying, Are You": "I'm Crying, Are You?",
-    "238": "2:38"
+    "238": "2:38",
+    "IS THIS THE END": "IS THIS THE END?"
 }
 
 json_df = pd.read_json('music.json')
